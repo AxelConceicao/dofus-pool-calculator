@@ -1,0 +1,3297 @@
+{
+  "CHARACTER_CHANGE_MAP": {
+    "id": "2",
+    "en": "Character Change Map",
+    "fr": "Carte de changement de personnage"
+  },
+  "CHARACTER_CHANGE_RESPAWN_MAP": {
+    "id": "3",
+    "en": "Character Change Respawn Map",
+    "fr": "Carte de réapparition de changement de personnage"
+  },
+  "CHARACTER_TELEPORT_ON_SAME_MAP": {
+    "id": "4",
+    "en": "Character Teleport On Same Map",
+    "fr": "Téléportation de personnage sur la même carte"
+  },
+  "CHARACTER_PUSH": {
+    "id": "5",
+    "en": "Character Push",
+    "fr": "Poussée de personnage"
+  },
+  "CHARACTER_PULL": {
+    "id": "6",
+    "en": "Character Pull",
+    "fr": "Pull de personnage"
+  },
+  "CHARACTER_DIVORCE_WIFE_OR_HUSBAND": {
+    "id": "7",
+    "en": "Character Divorce Wife Or Husband",
+    "fr": "Épouse ou mari de divorce de caractère"
+  },
+  "CHARACTER_EXCHANGE_PLACES": {
+    "id": "8",
+    "en": "Character Exchange Places",
+    "fr": "Lieux d'échange de personnages"
+  },
+  "CHARACTER_DODGE_HIT": {
+    "id": "9",
+    "en": "Character Dodge Hit",
+    "fr": "Personnage Dodge Hit"
+  },
+  "CHARACTER_LEARN_EMOTICON": {
+    "id": "10",
+    "en": "Character Learn Emoticon",
+    "fr": "Caractère Apprendre Émoticône"
+  },
+  "CHARACTER_CREATE_GUILD": {
+    "id": "12",
+    "en": "Character Create Guild",
+    "fr": "Personnage Créer une Guilde"
+  },
+  "QUEST_OBJECTIVE_VALIDATE": {
+    "id": "30",
+    "en": "Quest Objective Validate",
+    "fr": "Valider l'objectif de la quête"
+  },
+  "QUEST_STEP_VALIDATE": {
+    "id": "31",
+    "en": "Quest Step Validate",
+    "fr": "Étape de quête Valider"
+  },
+  "QUEST_QUEST_VALIDATE": {
+    "id": "32",
+    "en": "Quest Quest Validate",
+    "fr": "Quest Quest Valider"
+  },
+  "QUEST_START": {
+    "id": "34",
+    "en": "Quest Start",
+    "fr": "Début de quête"
+  },
+  "QUEST_RESET": {
+    "id": "36",
+    "en": "Quest Reset",
+    "fr": "Réinitialiser la quête"
+  },
+  "QUEST_FORCE_START": {
+    "id": "37",
+    "en": "Quest Force Start",
+    "fr": "Quest Force Start"
+  },
+  "BREACH_CREATE": {
+    "id": "46",
+    "en": "Breach Create",
+    "fr": "Créer une violation"
+  },
+  "BREACH_ENTER": {
+    "id": "47",
+    "en": "Breach Enter",
+    "fr": "Breach Enter"
+  },
+  "BREACH_NEXT_FIGHT_ROOM": {
+    "id": "48",
+    "en": "Breach Next Fight Room",
+    "fr": "Breach Next Fight Room"
+  },
+  "BREACH_NEXT_SAFE_ROOM": {
+    "id": "49",
+    "en": "Breach Next Safe Room",
+    "fr": "Breach Next Safe Room"
+  },
+  "CARRY_CHARACTER": {
+    "id": "50",
+    "en": "Carry Character",
+    "fr": "Porter le personnage"
+  },
+  "THROW_CARRIED_CHARACTER": {
+    "id": "51",
+    "en": "Throw Carried Character",
+    "fr": "Lancer le personnage porté"
+  },
+  "BREACH_PREVIOUS_ROOM": {
+    "id": "52",
+    "en": "Breach Previous Room",
+    "fr": "Breach Chambre précédente"
+  },
+  "BREACH_JUMP_TO_SAFE_ROOM": {
+    "id": "53",
+    "en": "Breach Jump To Safe Room",
+    "fr": "Breach Jump to Safe Room"
+  },
+  "BREACH_KICK_OUT": {
+    "id": "54",
+    "en": "Breach Kick Out",
+    "fr": "Breach Kick Out"
+  },
+  "BREACH_MODIFY_MAP": {
+    "id": "55",
+    "en": "Breach Modify Map",
+    "fr": "Breach Modifier la carte"
+  },
+  "BREACH_DISPLAY_ROOMS_REWARDS": {
+    "id": "56",
+    "en": "Breach Display Rooms Rewards",
+    "fr": "Récompenses Breach Display Rooms"
+  },
+  "BREACH_GAIN_BONUS": {
+    "id": "57",
+    "en": "Breach Gain Bonus",
+    "fr": "Bonus de gain de violation"
+  },
+  "BREACH_MODIFY_ROOM": {
+    "id": "58",
+    "en": "Breach Modify Room",
+    "fr": "Breach Modifier la salle"
+  },
+  "BREACH_REMOVE_EROSION": {
+    "id": "59",
+    "en": "Breach Remove Erosion",
+    "fr": "Brèche Supprimer l'érosion"
+  },
+  "BREACH_MODIFY_FIGHT_MODIFIER": {
+    "id": "60",
+    "en": "Breach Modify Fight Modifier",
+    "fr": "Modifier le modificateur de combat Breach"
+  },
+  "BREACH_MODIFY_BOSS": {
+    "id": "61",
+    "en": "Breach Modify Boss",
+    "fr": "Brèche Modifier le boss"
+  },
+  "BREACH_ADD_BOSS": {
+    "id": "62",
+    "en": "Breach Add Boss",
+    "fr": "Brèche Ajouter un boss"
+  },
+  "ANOMALY_EXIT": {
+    "id": "63",
+    "en": "Anomaly Exit",
+    "fr": "Sortie d'anomalie"
+  },
+  "CHARACTER_MOVEMENT_POINTS_STEAL": {
+    "id": "77",
+    "en": "Character Movement Points Steal",
+    "fr": "Vol de points de mouvement de personnage"
+  },
+  "CHARACTER_MOVEMENT_POINTS_WIN": {
+    "id": "78",
+    "en": "Character Movement Points Win",
+    "fr": "Points de mouvement de personnage gagner"
+  },
+  "CHARACTER_MULTIPLY_RECEIVED_DAMAGE_OR_GIVE_LIFE_WITH_RATIO": {
+    "id": "79",
+    "en": "Character Multiply Received Damage Or Give Life With Ratio",
+    "fr": "Le personnage multiplie les dégâts reçus ou donne la vie avec un ratio"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_FROM_PUSH": {
+    "id": "80",
+    "en": "Character Life Points Lost From Push",
+    "fr": "Points de vie du personnage perdus à cause de la poussée"
+  },
+  "CHARACTER_LIFE_POINTS_WIN_WITHOUT_ELEMENT": {
+    "id": "81",
+    "en": "Character Life Points Win Without Element",
+    "fr": "Les points de vie du personnage gagnent sans élément"
+  },
+  "CHARACTER_LIFE_POINTS_STEAL_WITHOUT_BOOST": {
+    "id": "82",
+    "en": "Character Life Points Steal Without Boost",
+    "fr": "Les points de vie du personnage volent sans booster"
+  },
+  "CHARACTER_POINTS_STEAL": {
+    "id": "84",
+    "en": "Character Points Steal",
+    "fr": "Vol de points de personnage"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_CASTER_LIFE_FROM_WATER": {
+    "id": "85",
+    "en": "Character Life Points Lost Based On Caster Life From Water",
+    "fr": "Points de vie du personnage perdus en fonction de la vie des roulettes dans l'eau"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_CASTER_LIFE_FROM_EARTH": {
+    "id": "86",
+    "en": "Character Life Points Lost Based On Caster Life From Earth",
+    "fr": "Points de vie des personnages perdus en fonction de la vie des roulettes sur Terre"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_CASTER_LIFE_FROM_AIR": {
+    "id": "87",
+    "en": "Character Life Points Lost Based On Caster Life From Air",
+    "fr": "Points de vie du personnage perdus en fonction de la vie des roulettes dans les airs"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_CASTER_LIFE_FROM_FIRE": {
+    "id": "88",
+    "en": "Character Life Points Lost Based On Caster Life From Fire",
+    "fr": "Points de vie du personnage perdus en fonction de la vie des roulettes du feu"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_CASTER_LIFE": {
+    "id": "89",
+    "en": "Character Life Points Lost Based On Caster Life",
+    "fr": "Points de vie des personnages perdus en fonction de la vie des roulettes"
+  },
+  "CHARACTER_DISPATCH_LIFE_POINTS_PERCENT": {
+    "id": "90",
+    "en": "Character Dispatch Life Points Percent",
+    "fr": "Pourcentage de points de vie pour l'envoi de personnages"
+  },
+  "CHARACTER_LIFE_POINTS_STEAL_FROM_WATER": {
+    "id": "91",
+    "en": "Character Life Points Steal From Water",
+    "fr": "Les points de vie des personnages volent dans l'eau"
+  },
+  "CHARACTER_LIFE_POINTS_STEAL_FROM_EARTH": {
+    "id": "92",
+    "en": "Character Life Points Steal From Earth",
+    "fr": "Les points de vie des personnages volent à la Terre"
+  },
+  "CHARACTER_LIFE_POINTS_STEAL_FROM_AIR": {
+    "id": "93",
+    "en": "Character Life Points Steal From Air",
+    "fr": "Les points de vie des personnages volent dans l'air"
+  },
+  "CHARACTER_LIFE_POINTS_STEAL_FROM_FIRE": {
+    "id": "94",
+    "en": "Character Life Points Steal From Fire",
+    "fr": "Les points de vie des personnages volent au feu"
+  },
+  "CHARACTER_LIFE_POINTS_STEAL": {
+    "id": "95",
+    "en": "Character Life Points Steal",
+    "fr": "Vol de points de vie de personnage"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_FROM_WATER": {
+    "id": "96",
+    "en": "Character Life Points Lost From Water",
+    "fr": "Points de vie du personnage perdus dans l'eau"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_FROM_EARTH": {
+    "id": "97",
+    "en": "Character Life Points Lost From Earth",
+    "fr": "Points de vie des personnages perdus de la Terre"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_FROM_AIR": {
+    "id": "98",
+    "en": "Character Life Points Lost From Air",
+    "fr": "Points de vie du personnage perdus dans les airs"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_FROM_FIRE": {
+    "id": "99",
+    "en": "Character Life Points Lost From Fire",
+    "fr": "Points de vie du personnage perdus par le feu"
+  },
+  "CHARACTER_LIFE_POINTS_LOST": {
+    "id": "100",
+    "en": "Character Life Points Lost",
+    "fr": "Points de vie du personnage perdus"
+  },
+  "CHARACTER_POINTS_LOST": {
+    "id": "101",
+    "en": "Character Points Lost",
+    "fr": "Points de personnage perdus"
+  },
+  "CHARACTER_LIFE_LOST_MODERATOR": {
+    "id": "105",
+    "en": "Character Life Lost Moderator",
+    "fr": "Modérateur de la vie perdue du personnage"
+  },
+  "CHARACTER_SPELL_REFLECTOR": {
+    "id": "106",
+    "en": "Character Spell Reflector",
+    "fr": "Réflecteur de sorts de personnage"
+  },
+  "CHARACTER_LIFE_LOST_REFLECTOR": {
+    "id": "107",
+    "en": "Character Life Lost Reflector",
+    "fr": "Réflecteur perdu de la vie du personnage"
+  },
+  "CHARACTER_LIFE_POINTS_WIN": {
+    "id": "108",
+    "en": "Character Life Points Win",
+    "fr": "Points de vie de personnage gagnés"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_CASTER": {
+    "id": "109",
+    "en": "Character Life Points Lost Caster",
+    "fr": "Caractère Life Points Lost Caster"
+  },
+  "CHARACTER_BOOST_LIFE_POINTS": {
+    "id": "110",
+    "en": "%s Life Points",
+    "fr": "Points de vie Boost de personnage"
+  },
+  "CHARACTER_BOOST_POINTS": {
+    "id": "111",
+    "en": "%s Points",
+    "fr": "Points de boost de personnage"
+  },
+  "CHARACTER_BOOST_DAMAGES": {
+    "id": "112",
+    "en": "%s Damages",
+    "fr": "Dégâts de boost de personnage"
+  },
+  "CHARACTER_MULTIPLY_DAMAGES": {
+    "id": "114",
+    "en": "Character Multiply Damages",
+    "fr": "Dommages multipliés par le personnage"
+  },
+  "CHARACTER_BOOST_CRITICAL_HIT": {
+    "id": "115",
+    "en": "%s Critical Hit",
+    "fr": "Coup critique de renforcement de personnage"
+  },
+  "CHARACTER_DEBOOST_RANGE": {
+    "id": "116",
+    "en": "Character Deboost Range",
+    "fr": "Gamme Deboost de Caractère"
+  },
+  "CHARACTER_BOOST_RANGE": {
+    "id": "117",
+    "en": "%s Range",
+    "fr": "Gamme de boost de personnage"
+  },
+  "CHARACTER_BOOST_STRENGTH": {
+    "id": "118",
+    "en": "%s Strength",
+    "fr": "Force de renforcement du personnage"
+  },
+  "CHARACTER_BOOST_AGILITY": {
+    "id": "119",
+    "en": "%s Agility",
+    "fr": "Augmentation de l'agilité des personnages"
+  },
+  "CHARACTER_POINTS_WIN": {
+    "id": "120",
+    "en": "Character Points Win",
+    "fr": "Points de personnage gagner"
+  },
+  "CHARACTER_BOOST_DAMAGES_FOR_ALL_GAME": {
+    "id": "121",
+    "en": "%s Damages For All Game",
+    "fr": "Dégâts de boost de personnage pour tous les jeux"
+  },
+  "CHARACTER_BOOST_CRITICAL_MISS": {
+    "id": "122",
+    "en": "%s Critical Miss",
+    "fr": "Renforcement du personnage Critical Miss"
+  },
+  "CHARACTER_BOOST_CHANCE": {
+    "id": "123",
+    "en": "%s Chance",
+    "fr": "Chance d'augmentation de personnage"
+  },
+  "CHARACTER_BOOST_WISDOM": {
+    "id": "124",
+    "en": "%s Wisdom",
+    "fr": "Renforcement de la sagesse du personnage"
+  },
+  "CHARACTER_BOOST_VITALITY": {
+    "id": "125",
+    "en": "%s Vitality",
+    "fr": "Vitalité du personnage"
+  },
+  "CHARACTER_BOOST_INTELLIGENCE": {
+    "id": "126",
+    "en": "%s Intelligence",
+    "fr": "Intelligence de renforcement des personnages"
+  },
+  "CHARACTER_MOVEMENT_POINTS_LOST": {
+    "id": "127",
+    "en": "Character Movement Points Lost",
+    "fr": "Points de mouvement du personnage perdus"
+  },
+  "CHARACTER_BOOST_MOVEMENT_POINTS": {
+    "id": "128",
+    "en": "%s Movement Points",
+    "fr": "Points de mouvement d'augmentation de personnage"
+  },
+  "CHARACTER_STEAL_GOLD": {
+    "id": "130",
+    "en": "Character Steal Gold",
+    "fr": "Personnage voler de l'or"
+  },
+  "CHARACTER_REMOVE_ALL_EFFECTS": {
+    "id": "132",
+    "en": "Character Remove All Effects",
+    "fr": "Caractère Supprimer tous les effets"
+  },
+  "CHARACTER_POINTS_LOST_CASTER": {
+    "id": "133",
+    "en": "Character Points Lost Caster",
+    "fr": "Points de personnage Roulette perdue"
+  },
+  "CHARACTER_MOVEMENT_POINTS_LOST_CASTER": {
+    "id": "134",
+    "en": "Character Movement Points Lost Caster",
+    "fr": "Points de mouvement du personnage Roulette perdue"
+  },
+  "CHARACTER_DEBOOST_RANGE_CASTER": {
+    "id": "135",
+    "en": "Character Deboost Range Caster",
+    "fr": "Caractère Deboost Range Caster"
+  },
+  "CHARACTER_BOOST_RANGE_CASTER": {
+    "id": "136",
+    "en": "%s Range Caster",
+    "fr": "Roulette de portée de renforcement de personnage"
+  },
+  "CHARACTER_BOOST_DAMAGES_CASTER": {
+    "id": "137",
+    "en": "%s Damages Caster",
+    "fr": "Roulette de dégâts de renforcement de personnage"
+  },
+  "CHARACTER_BOOST_DAMAGES_PERCENT": {
+    "id": "138",
+    "en": "%s Damages Percent",
+    "fr": "Pourcentage de dégâts de renforcement de personnage"
+  },
+  "CHARACTER_ENERGY_POINTS_WIN": {
+    "id": "139",
+    "en": "Character Energy Points Win",
+    "fr": "Gagner des points d'énergie du personnage"
+  },
+  "CHARACTER_PASS_NEXT_TURN": {
+    "id": "140",
+    "en": "Character Pass Next Turn",
+    "fr": "Passage du personnage au prochain tour"
+  },
+  "CHARACTER_KILL": {
+    "id": "141",
+    "en": "Character Kill",
+    "fr": "Tuer un personnage"
+  },
+  "CHARACTER_BOOST_PHYSICAL_DAMAGES": {
+    "id": "142",
+    "en": "%s Physical Damages",
+    "fr": "Augmentation des dégâts physiques du personnage"
+  },
+  "CHARACTER_LIFE_POINTS_WIN_WITHOUT_BOOST": {
+    "id": "143",
+    "en": "Character Life Points Win Without Boost",
+    "fr": "Les points de vie du personnage gagnent sans augmentation"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_NO_BOOST": {
+    "id": "144",
+    "en": "Character Life Points Lost No Boost",
+    "fr": "Points de vie du personnage perdus sans boost"
+  },
+  "CHARACTER_DEBOOST_DAMAGES": {
+    "id": "145",
+    "en": "Character Deboost Damages",
+    "fr": "Dégâts de décompression du personnage"
+  },
+  "CHARACTER_CURSE": {
+    "id": "146",
+    "en": "Character Curse",
+    "fr": "Malédiction de caractère"
+  },
+  "CHARACTER_RESURECT_ALLY_IN_FIGHT": {
+    "id": "147",
+    "en": "Character Resurect Ally In Fight",
+    "fr": "Personnage ressusciter un allié au combat"
+  },
+  "CHARACTER_ADD_FOLLOWING_CHARACTER": {
+    "id": "148",
+    "en": "Character Add Following Character",
+    "fr": "Caractère Ajouter le personnage suivant"
+  },
+  "CHARACTER_CHANGE_LOOK": {
+    "id": "149",
+    "en": "Character Change Look",
+    "fr": "Changement de personnage"
+  },
+  "CHARACTER_MAKE_INVISIBLE": {
+    "id": "150",
+    "en": "Character Make Invisible",
+    "fr": "Caractère rendu invisible"
+  },
+  "CHARACTER_DEBOOST_CHANCE": {
+    "id": "152",
+    "en": "Character Deboost Chance",
+    "fr": "Chance de booster de personnage"
+  },
+  "CHARACTER_DEBOOST_VITALITY": {
+    "id": "153",
+    "en": "Character Deboost Vitality",
+    "fr": "Caractère Deboost Vitality"
+  },
+  "CHARACTER_DEBOOST_AGILITY": {
+    "id": "154",
+    "en": "Character Deboost Agility",
+    "fr": "Caractère Deboost Agility"
+  },
+  "CHARACTER_DEBOOST_INTELLIGENCE": {
+    "id": "155",
+    "en": "Character Deboost Intelligence",
+    "fr": "Caractère Deboost Intelligence"
+  },
+  "CHARACTER_DEBOOST_WISDOM": {
+    "id": "156",
+    "en": "Character Deboost Wisdom",
+    "fr": "Caractère Deboost Wisdom"
+  },
+  "CHARACTER_DEBOOST_STRENGTH": {
+    "id": "157",
+    "en": "Character Deboost Strength",
+    "fr": "Force Deboost De Caractère"
+  },
+  "CHARACTER_BOOST_MAXIMUM_WEIGHT": {
+    "id": "158",
+    "en": "%s Maximum Weight",
+    "fr": "Poids maximum du renforcement des caractères"
+  },
+  "CHARACTER_DEBOOST_MAXIMUM_WEIGHT": {
+    "id": "159",
+    "en": "Character Deboost Maximum Weight",
+    "fr": "Poids maximum de décompression de personnage"
+  },
+  "CHARACTER_BOOST_POINTS_LOST_DODGE": {
+    "id": "160",
+    "en": "%s Points Lost Dodge",
+    "fr": "Points de boost de personnage Esquive perdue"
+  },
+  "CHARACTER_BOOST_MOVEMENT_POINTS_LOST_DODGE": {
+    "id": "161",
+    "en": "%s Movement Points Lost Dodge",
+    "fr": "Points de mouvement Boost de personnage Esquive perdue"
+  },
+  "CHARACTER_DEBOOST_POINTS_LOST_DODGE": {
+    "id": "162",
+    "en": "Character Deboost Points Lost Dodge",
+    "fr": "Points de bonus de personnage Esquive perdue"
+  },
+  "CHARACTER_DEBOOST_MOVEMENT_POINTS_LOST_DODGE": {
+    "id": "163",
+    "en": "Character Deboost Movement Points Lost Dodge",
+    "fr": "Points de mouvement de Deboost de personnage Esquive perdue"
+  },
+  "CHARACTER_BOOST_ONE_WEAPON_DAMAGE_PERCENT": {
+    "id": "165",
+    "en": "%s One Weapon Damage Percent",
+    "fr": "Pourcentage de dégâts d'arme pour Boost de personnage"
+  },
+  "CHARACTER_DEBOOST_POINTS": {
+    "id": "168",
+    "en": "Character Deboost Points",
+    "fr": "Points de boost de personnage"
+  },
+  "CHARACTER_DEBOOST_MOVEMENT_POINTS": {
+    "id": "169",
+    "en": "Character Deboost Movement Points",
+    "fr": "Points de mouvement de Deboost de personnage"
+  },
+  "CHARACTER_DEBOOST_CRITICAL_HIT": {
+    "id": "171",
+    "en": "Character Deboost Critical Hit",
+    "fr": "Coup Critique de Deboost de Personnage"
+  },
+  "CHARACTER_DEBOOST_MAGICAL_REDUCTION": {
+    "id": "172",
+    "en": "Character Deboost Magical Reduction",
+    "fr": "Réduction magique des personnages"
+  },
+  "CHARACTER_DEBOOST_PHYSICAL_REDUCTION": {
+    "id": "173",
+    "en": "Character Deboost Physical Reduction",
+    "fr": "Réduction physique du caractère Deboost"
+  },
+  "CHARACTER_BOOST_INITIATIVE": {
+    "id": "174",
+    "en": "%s Initiative",
+    "fr": "Initiative de renforcement de personnage"
+  },
+  "CHARACTER_DEBOOST_INITIATIVE": {
+    "id": "175",
+    "en": "Character Deboost Initiative",
+    "fr": "Initiative de renforcement du personnage"
+  },
+  "CHARACTER_BOOST_MAGIC_FIND": {
+    "id": "176",
+    "en": "%s Magic Find",
+    "fr": "Caractère Boost Magic Find"
+  },
+  "CHARACTER_DEBOOST_MAGIC_FIND": {
+    "id": "177",
+    "en": "Character Deboost Magic Find",
+    "fr": "Personnage Deboost Magic Find"
+  },
+  "CHARACTER_BOOST_HEAL_BONUS": {
+    "id": "178",
+    "en": "%s Heal Bonus",
+    "fr": "Bonus de soin de renforcement de personnage"
+  },
+  "CHARACTER_DEBOOST_HEAL_BONUS": {
+    "id": "179",
+    "en": "Character Deboost Heal Bonus",
+    "fr": "Bonus de soin de Deboost de personnage"
+  },
+  "CHARACTER_ADD_DOUBLE_USE_SUMMON_SLOT": {
+    "id": "180",
+    "en": "Character Add Double Use Summon Slot",
+    "fr": "Caractère ajouter un emplacement d'invocation à double usage"
+  },
+  "SUMMON_CREATURE": {
+    "id": "181",
+    "en": "Summon Creature",
+    "fr": "Invocation de créature"
+  },
+  "CHARACTER_BOOST_MAXIMUM_SUMMONED_CREATURES": {
+    "id": "182",
+    "en": "%s Maximum Summoned Creatures",
+    "fr": "Augmentation du personnage Nombre maximum de créatures invoquées"
+  },
+  "CHARACTER_BOOST_MAGICAL_REDUCTION": {
+    "id": "183",
+    "en": "%s Magical Reduction",
+    "fr": "Réduction magique du renforcement des personnages"
+  },
+  "CHARACTER_BOOST_PHYSICAL_REDUCTION": {
+    "id": "184",
+    "en": "%s Physical Reduction",
+    "fr": "Réduction physique du renforcement des caractères"
+  },
+  "CHARACTER_DEBOOST_DAMAGES_PERCENT": {
+    "id": "186",
+    "en": "Character Deboost Damages Percent",
+    "fr": "Pourcentage de dégâts de désactivation du personnage"
+  },
+  "CHARACTER_ALIGNMENT_SIDE_SET": {
+    "id": "188",
+    "en": "Character Alignment Side Set",
+    "fr": "Ensemble latéral d'alignement de caractères"
+  },
+  "CHARACTER_INVENTORY_REMOVE_ITEM": {
+    "id": "192",
+    "en": "Character Inventory Remove Item",
+    "fr": "Inventaire des personnages Supprimer l'élément"
+  },
+  "CHARACTER_INVENTORY_ADD_ITEM_CHECK": {
+    "id": "193",
+    "en": "Character Inventory Add Item Check",
+    "fr": "Inventaire des personnages Ajouter un contrôle d'article"
+  },
+  "CHARACTER_INVENTORY_GAIN_KAMAS": {
+    "id": "194",
+    "en": "Character Inventory Gain Kamas",
+    "fr": "Inventaire des personnages Gagnez des Kamas"
+  },
+  "CHARACTER_TRANSFORM": {
+    "id": "197",
+    "en": "Character Transform",
+    "fr": "Transformation de personnage"
+  },
+  "DECORS_ADD_OBJECT": {
+    "id": "201",
+    "en": "Decors Add Object",
+    "fr": "Décors Ajouter un objet"
+  },
+  "DECORS_REVEAL_UNVISIBLE": {
+    "id": "202",
+    "en": "Decors Reveal Unvisible",
+    "fr": "Les décors révèlent l'invisible"
+  },
+  "CHARACTER_RESURRECTION": {
+    "id": "206",
+    "en": "Character Resurrection",
+    "fr": "Résurrection du personnage"
+  },
+  "CHARACTER_BOOST_EARTH_ELEMENT_PERCENT": {
+    "id": "210",
+    "en": "%s Earth Element Percent",
+    "fr": "Pourcentage d'élément Terre d'augmentation de caractère"
+  },
+  "CHARACTER_BOOST_WATER_ELEMENT_PERCENT": {
+    "id": "211",
+    "en": "%s Water Element Percent",
+    "fr": "Pourcentage d'élément d'eau d'augmentation de caractère"
+  },
+  "CHARACTER_BOOST_AIR_ELEMENT_PERCENT": {
+    "id": "212",
+    "en": "%s Air Element Percent",
+    "fr": "Pourcentage d'élément d'air d'augmentation de caractère"
+  },
+  "CHARACTER_BOOST_FIRE_ELEMENT_PERCENT": {
+    "id": "213",
+    "en": "%s Fire Element Percent",
+    "fr": "% Résistance Feu"
+  },
+  "CHARACTER_BOOST_NEUTRAL_ELEMENT_PERCENT": {
+    "id": "214",
+    "en": "%s Neutral Element Percent",
+    "fr": "Pourcentage d'élément neutre d'augmentation de caractère"
+  },
+  "CHARACTER_DEBOOST_EARTH_ELEMENT_PERCENT": {
+    "id": "215",
+    "en": "Character Deboost Earth Element Percent",
+    "fr": "Pourcentage d'élément de terre de décompression de personnage"
+  },
+  "CHARACTER_DEBOOST_WATER_ELEMENT_PERCENT": {
+    "id": "216",
+    "en": "Character Deboost Water Element Percent",
+    "fr": "Pourcentage d'élément d'eau de décompression de caractère"
+  },
+  "CHARACTER_DEBOOST_AIR_ELEMENT_PERCENT": {
+    "id": "217",
+    "en": "Character Deboost Air Element Percent",
+    "fr": "Pourcentage d'élément d'air de décompression de caractère"
+  },
+  "CHARACTER_DEBOOST_FIRE_ELEMENT_PERCENT": {
+    "id": "218",
+    "en": "Character Deboost Fire Element Percent",
+    "fr": "Pourcentage d'élément de feu de décompression de personnage"
+  },
+  "CHARACTER_DEBOOST_NEUTRAL_ELEMENT_PERCENT": {
+    "id": "219",
+    "en": "Character Deboost Neutral Element Percent",
+    "fr": "Pourcentage d'élément neutre de Deboost de caractère"
+  },
+  "CHARACTER_REFLECTOR_UNBOOSTED": {
+    "id": "220",
+    "en": "Character Reflector Unboosted",
+    "fr": "Réflecteur de personnage non boosté"
+  },
+  "CHARACTER_INVENTORY_ADD_ITEM_RANDOM_NOCHECK": {
+    "id": "221",
+    "en": "Character Inventory Add Item Random Nocheck",
+    "fr": "Inventaire des personnages Ajouter un article au hasard Nocheck"
+  },
+  "CHARACTER_INVENTORY_ADD_ITEM_FROM_RANDOM_DROP": {
+    "id": "222",
+    "en": "Character Inventory Add Item From Random Drop",
+    "fr": "Inventaire des personnages Ajouter un objet à partir d'une chute aléatoire"
+  },
+  "CHARACTER_BOOST_TRAP": {
+    "id": "225",
+    "en": "%s Trap",
+    "fr": "Piège de renforcement de personnage"
+  },
+  "CHARACTER_BOOST_TRAP_PERCENT": {
+    "id": "226",
+    "en": "%s Trap Percent",
+    "fr": "Pourcentage de piège de renforcement de personnage"
+  },
+  "CHARACTER_GAIN_RIDE": {
+    "id": "229",
+    "en": "Character Gain Ride",
+    "fr": "Gain de personnage"
+  },
+  "CHARACTER_ENERGY_LOSS_BOOST": {
+    "id": "230",
+    "en": "Character Energy Loss Boost",
+    "fr": "Augmentation de la perte d'énergie du personnage"
+  },
+  "DECORS_PLAY_ANIMATION_D2": {
+    "id": "237",
+    "en": "Decors Play Animation D2",
+    "fr": "Décors Play Animation D2"
+  },
+  "PLAY_CINEMATIC": {
+    "id": "239",
+    "en": "Play Cinematic",
+    "fr": "Jouer à la cinématique"
+  },
+  "CHARACTER_BOOST_EARTH_ELEMENT_RESIST": {
+    "id": "240",
+    "en": "%s Earth Element Resist",
+    "fr": "Caractère Boost Earth Element Resist"
+  },
+  "CHARACTER_BOOST_WATER_ELEMENT_RESIST": {
+    "id": "241",
+    "en": "%s Water Element Resist",
+    "fr": "Résistance d'élément d'eau de renforcement de personnage"
+  },
+  "CHARACTER_BOOST_AIR_ELEMENT_RESIST": {
+    "id": "242",
+    "en": "%s Air Element Resist",
+    "fr": "Résistance d'élément d'air d'augmentation de caractère"
+  },
+  "CHARACTER_BOOST_FIRE_ELEMENT_RESIST": {
+    "id": "243",
+    "en": "%s Fire Element Resist",
+    "fr": "Résistance aux éléments de feu Boost de personnage"
+  },
+  "CHARACTER_BOOST_NEUTRAL_ELEMENT_RESIST": {
+    "id": "244",
+    "en": "%s Neutral Element Resist",
+    "fr": "Résistance d'élément neutre Boost de personnage"
+  },
+  "CHARACTER_DEBOOST_EARTH_ELEMENT_RESIST": {
+    "id": "245",
+    "en": "Character Deboost Earth Element Resist",
+    "fr": "Personnage Deboost Earth Element Resist"
+  },
+  "CHARACTER_DEBOOST_WATER_ELEMENT_RESIST": {
+    "id": "246",
+    "en": "Character Deboost Water Element Resist",
+    "fr": "Character Deboost Résistance à l'élément d'eau"
+  },
+  "CHARACTER_DEBOOST_AIR_ELEMENT_RESIST": {
+    "id": "247",
+    "en": "Character Deboost Air Element Resist",
+    "fr": "Character Deboost Air Element Resist"
+  },
+  "CHARACTER_DEBOOST_FIRE_ELEMENT_RESIST": {
+    "id": "248",
+    "en": "Character Deboost Fire Element Resist",
+    "fr": "Résistance aux éléments de feu"
+  },
+  "CHARACTER_DEBOOST_NEUTRAL_ELEMENT_RESIST": {
+    "id": "249",
+    "en": "Character Deboost Neutral Element Resist",
+    "fr": "Character Deboost Neutral Element Resist"
+  },
+  "CHARACTER_BOOST_EARTH_ELEMENT_PVP_PERCENT": {
+    "id": "250",
+    "en": "%s Earth Element Pvp Percent",
+    "fr": "Pourcentage JcJ de l'élément Terre d'augmentation du personnage"
+  },
+  "CHARACTER_BOOST_WATER_ELEMENT_PVP_PERCENT": {
+    "id": "251",
+    "en": "%s Water Element Pvp Percent",
+    "fr": "Pourcentage JcJ d'élément d'eau d'augmentation de personnage"
+  },
+  "CHARACTER_BOOST_AIR_ELEMENT_PVP_PERCENT": {
+    "id": "252",
+    "en": "%s Air Element Pvp Percent",
+    "fr": "Pourcentage de Pvp d'élément Air Boost de personnage"
+  },
+  "CHARACTER_BOOST_FIRE_ELEMENT_PVP_PERCENT": {
+    "id": "253",
+    "en": "%s Fire Element Pvp Percent",
+    "fr": "Pourcentage JcJ d'élément de feu d'augmentation de personnage"
+  },
+  "CHARACTER_BOOST_NEUTRAL_ELEMENT_PVP_PERCENT": {
+    "id": "254",
+    "en": "%s Neutral Element Pvp Percent",
+    "fr": "Pourcentage JcJ d'élément neutre d'augmentation de personnage"
+  },
+  "CHARACTER_DEBOOST_EARTH_ELEMENT_PVP_PERCENT": {
+    "id": "255",
+    "en": "Character Deboost Earth Element Pvp Percent",
+    "fr": "Pourcentage de Pvp d'élément de terre de Deboost de personnage"
+  },
+  "CHARACTER_DEBOOST_WATER_ELEMENT_PVP_PERCENT": {
+    "id": "256",
+    "en": "Character Deboost Water Element Pvp Percent",
+    "fr": "Pourcentage de Pvp d'élément d'eau de décompression de personnage"
+  },
+  "CHARACTER_DEBOOST_AIR_ELEMENT_PVP_PERCENT": {
+    "id": "257",
+    "en": "Character Deboost Air Element Pvp Percent",
+    "fr": "Pourcentage de Pvp d'élément d'air de Deboost de personnage"
+  },
+  "CHARACTER_DEBOOST_FIRE_ELEMENT_PVP_PERCENT": {
+    "id": "258",
+    "en": "Character Deboost Fire Element Pvp Percent",
+    "fr": "Pourcentage de Pvp d'élément de feu de Deboost de personnage"
+  },
+  "CHARACTER_DEBOOST_NEUTRAL_ELEMENT_PVP_PERCENT": {
+    "id": "259",
+    "en": "Character Deboost Neutral Element Pvp Percent",
+    "fr": "Pourcentage de Pvp d'élément neutre de Deboost de personnage"
+  },
+  "CHARACTER_BOOST_EARTH_ELEMENT_PVP_RESIST": {
+    "id": "260",
+    "en": "%s Earth Element Pvp Resist",
+    "fr": "Renforcement du personnage Résistance Pvp de l'élément Terre"
+  },
+  "CHARACTER_BOOST_WATER_ELEMENT_PVP_RESIST": {
+    "id": "261",
+    "en": "%s Water Element Pvp Resist",
+    "fr": "Résistance Pvp d'élément d'eau Boost de personnage"
+  },
+  "CHARACTER_BOOST_AIR_ELEMENT_PVP_RESIST": {
+    "id": "262",
+    "en": "%s Air Element Pvp Resist",
+    "fr": "Caractère Boost Air Element Résistance Pvp"
+  },
+  "CHARACTER_BOOST_FIRE_ELEMENT_PVP_RESIST": {
+    "id": "263",
+    "en": "%s Fire Element Pvp Resist",
+    "fr": "Caractère Boost Fire Element Pvp Resist"
+  },
+  "CHARACTER_BOOST_NEUTRAL_ELEMENT_PVP_RESIST": {
+    "id": "264",
+    "en": "%s Neutral Element Pvp Resist",
+    "fr": "Renforcement du personnage Résistance Pvp d'élément neutre"
+  },
+  "CHARACTER_LIFE_LOST_CASTER_MODERATOR": {
+    "id": "265",
+    "en": "Character Life Lost Caster Moderator",
+    "fr": "Modérateur de personnage Life Lost Caster"
+  },
+  "CHARACTER_STEAL_CHANCE": {
+    "id": "266",
+    "en": "Character Steal Chance",
+    "fr": "Chance de voler le personnage"
+  },
+  "CHARACTER_STEAL_VITALITY": {
+    "id": "267",
+    "en": "Character Steal Vitality",
+    "fr": "Voler la vitalité du personnage"
+  },
+  "CHARACTER_STEAL_AGILITY": {
+    "id": "268",
+    "en": "Character Steal Agility",
+    "fr": "Voler l'agilité du personnage"
+  },
+  "CHARACTER_STEAL_INTELLIGENCE": {
+    "id": "269",
+    "en": "Character Steal Intelligence",
+    "fr": "Caractère voler l'intelligence"
+  },
+  "CHARACTER_STEAL_WISDOM": {
+    "id": "270",
+    "en": "Character Steal Wisdom",
+    "fr": "Caractère voler la sagesse"
+  },
+  "CHARACTER_STEAL_STRENGTH": {
+    "id": "271",
+    "en": "Character Steal Strength",
+    "fr": "Voler la force du personnage"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_CASTER_LIFE_MISSING_FROM_WATER": {
+    "id": "275",
+    "en": "Character Life Points Lost Based On Caster Life Missing From Water",
+    "fr": "Points de vie du personnage perdus en raison de la vie de roulette manquante dans l'eau"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_CASTER_LIFE_MISSING_FROM_EARTH": {
+    "id": "276",
+    "en": "Character Life Points Lost Based On Caster Life Missing From Earth",
+    "fr": "Points de vie des personnages perdus en raison de la disparition de la vie des roulettes sur Terre"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_CASTER_LIFE_MISSING_FROM_AIR": {
+    "id": "277",
+    "en": "Character Life Points Lost Based On Caster Life Missing From Air",
+    "fr": "Points de vie du personnage perdus en raison de la disparition de la vie des roulettes dans les airs"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_CASTER_LIFE_MISSING_FROM_FIRE": {
+    "id": "278",
+    "en": "Character Life Points Lost Based On Caster Life Missing From Fire",
+    "fr": "Points de vie du personnage perdus en raison de la disparition de la vie des roulettes du feu"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_CASTER_LIFE_MISSING": {
+    "id": "279",
+    "en": "Character Life Points Lost Based On Caster Life Missing",
+    "fr": "Points de vie du personnage perdus en raison de la disparition de la vie des roulettes"
+  },
+  "BOOST_SPELL_RANGE_MIN": {
+    "id": "280",
+    "en": "Boost Spell Range Min",
+    "fr": "Boost Spell Range Min"
+  },
+  "BOOST_SPELL_RANGE_MAX": {
+    "id": "281",
+    "en": "Boost Spell Range Max",
+    "fr": "Boost Spell Range Max"
+  },
+  "BOOST_SPELL_RANGEABLE": {
+    "id": "282",
+    "en": "Boost Spell Rangeable",
+    "fr": "Boost Spell Rangeable"
+  },
+  "BOOST_SPELL_DMG": {
+    "id": "283",
+    "en": "Boost Spell Dmg",
+    "fr": "Augmenter les dégâts des sorts"
+  },
+  "BOOST_SPELL_HEAL": {
+    "id": "284",
+    "en": "Boost Spell Heal",
+    "fr": "Boost Spell Heal"
+  },
+  "BOOST_SPELL_AP_COST": {
+    "id": "285",
+    "en": "Boost Spell Ap Cost",
+    "fr": "Augmentation du coût Ap des sorts"
+  },
+  "BOOST_SPELL_CAST_INTVL": {
+    "id": "286",
+    "en": "Boost Spell Cast Intvl",
+    "fr": "Boost Spell Cast Intvl"
+  },
+  "BOOST_SPELL_CC": {
+    "id": "287",
+    "en": "Boost Spell Cc",
+    "fr": "Boost Spell Cc"
+  },
+  "BOOST_SPELL_CASTOUTLINE": {
+    "id": "288",
+    "en": "Boost Spell Castoutline",
+    "fr": "Boost sortilège Castoutline"
+  },
+  "BOOST_SPELL_NOLINEOFSIGHT": {
+    "id": "289",
+    "en": "Boost Spell Nolineofsight",
+    "fr": "Boost Spell Nolineofsight"
+  },
+  "BOOST_SPELL_MAXPERTURN": {
+    "id": "290",
+    "en": "Boost Spell Maxperturn",
+    "fr": "Boost Spell Maxperturn"
+  },
+  "BOOST_SPELL_MAXPERTARGET": {
+    "id": "291",
+    "en": "Boost Spell Maxpertarget",
+    "fr": "Boost Spell Maxpertarget"
+  },
+  "BOOST_SPELL_CAST_INTVL_SET": {
+    "id": "292",
+    "en": "Boost Spell Cast Intvl Set",
+    "fr": "Boost Spell Cast Intvl Set"
+  },
+  "BOOST_SPELL_BASE_DMG": {
+    "id": "293",
+    "en": "Boost Spell Base Dmg",
+    "fr": "Boost Spell Base Dmg"
+  },
+  "DEBOOST_SPELL_RANGE_MAX": {
+    "id": "294",
+    "en": "Deboost Spell Range Max",
+    "fr": "Deboost Spell Range Max"
+  },
+  "DEBOOST_SPELL_RANGE_MIN": {
+    "id": "295",
+    "en": "Deboost Spell Range Min",
+    "fr": "Deboost Spell Range Min"
+  },
+  "DEBOOST_SPELL_AP_COST": {
+    "id": "296",
+    "en": "Deboost Spell Ap Cost",
+    "fr": "Coût Ap des sorts de Deboost"
+  },
+  "FIGHT_DISPELL_TEMPORARY_OBJECT": {
+    "id": "310",
+    "en": "Fight Dispell Temporary Object",
+    "fr": "Combattre un objet temporaire Dispell"
+  },
+  "CHARACTER_STEAL_RANGE": {
+    "id": "320",
+    "en": "Character Steal Range",
+    "fr": "Portée de vol de personnage"
+  },
+  "CHARACTER_CHANGE_COLOR": {
+    "id": "333",
+    "en": "Character Change Color",
+    "fr": "Couleur de changement de caractère"
+  },
+  "CHARACTER_ADD_APPEARANCE": {
+    "id": "335",
+    "en": "Character Add Appearance",
+    "fr": "Caractère ajouter une apparence"
+  },
+  "REFRESH_MAP_NPC_ONLY_FOR_ME_IN_ROLEPLAY": {
+    "id": "350",
+    "en": "Refresh Map Npc Only For Me In Roleplay",
+    "fr": "Actualiser le PNJ de la carte uniquement pour moi dans le jeu de rôle"
+  },
+  "REFRESH_MAP_NPC_FOR_EVERYONE_IN_ROLEPLAY": {
+    "id": "351",
+    "en": "Refresh Map Npc For Everyone In Roleplay",
+    "fr": "Actualiser la carte Npc pour tout le monde dans Roleplay"
+  },
+  "FIGHT_ADD_TRAP_CASTING_SPELL": {
+    "id": "400",
+    "en": "Fight Add Trap Casting Spell",
+    "fr": "Combattre Ajouter un sort de lancement de piège"
+  },
+  "FIGHT_ADD_GLYPH_CASTING_SPELL": {
+    "id": "401",
+    "en": "Fight Add Glyph Casting Spell",
+    "fr": "Combattre Ajouter un sort de lancement de glyphe"
+  },
+  "FIGHT_ADD_GLYPH_CASTING_SPELL_ENDTURN": {
+    "id": "402",
+    "en": "Fight Add Glyph Casting Spell Endturn",
+    "fr": "Combattre Ajouter Glyph Casting Spell Endturn"
+  },
+  "FIGHT_KILL_AND_SUMMON": {
+    "id": "405",
+    "en": "Fight Kill And Summon",
+    "fr": "Combattre, tuer et invoquer"
+  },
+  "CHARACTER_DISPELL_SPELL": {
+    "id": "406",
+    "en": "Character Dispell Spell",
+    "fr": "Dissipation du personnage"
+  },
+  "CHARACTER_LIFE_POINTS_WIN_NO_BOOST": {
+    "id": "407",
+    "en": "Character Life Points Win No Boost",
+    "fr": "Les points de vie du personnage ne gagnent pas de boost"
+  },
+  "CHARACTER_BOOST_AP_ATTACK": {
+    "id": "410",
+    "en": "%s Ap Attack",
+    "fr": "Attaque Ap boost de personnage"
+  },
+  "CHARACTER_DEBOOST_AP_ATTACK": {
+    "id": "411",
+    "en": "Character Deboost Ap Attack",
+    "fr": "Attaque du personnage Deboost Ap"
+  },
+  "CHARACTER_BOOST_MP_ATTACK": {
+    "id": "412",
+    "en": "%s Mp Attack",
+    "fr": "Attaque Mp Boost de personnage"
+  },
+  "CHARACTER_DEBOOST_MP_ATTACK": {
+    "id": "413",
+    "en": "Character Deboost Mp Attack",
+    "fr": "Attaque Mp Deboost de personnage"
+  },
+  "CHARACTER_BOOST_PUSH_DAMAGE": {
+    "id": "414",
+    "en": "%s Push Damage",
+    "fr": "Dégâts de poussée de renforcement de personnage"
+  },
+  "CHARACTER_DEBOOST_PUSH_DAMAGE": {
+    "id": "415",
+    "en": "Character Deboost Push Damage",
+    "fr": "Dégâts de poussée de Deboost de personnage"
+  },
+  "CHARACTER_BOOST_PUSH_DAMAGE_REDUCTION": {
+    "id": "416",
+    "en": "%s Push Damage Reduction",
+    "fr": "Réduction des dégâts de poussée de personnage"
+  },
+  "CHARACTER_DEBOOST_PUSH_DAMAGE_REDUCTION": {
+    "id": "417",
+    "en": "Character Deboost Push Damage Reduction",
+    "fr": "Réduction des dégâts de poussée du personnage Deboost"
+  },
+  "CHARACTER_BOOST_CRITICAL_DAMAGES_BONUS": {
+    "id": "418",
+    "en": "%s Critical Damages Bonus",
+    "fr": "Bonus de dégâts critiques de Boost de personnage"
+  },
+  "CHARACTER_DEBOOST_CRITICAL_DAMAGES_BONUS": {
+    "id": "419",
+    "en": "Character Deboost Critical Damages Bonus",
+    "fr": "Bonus de dégâts critiques de Boost de personnage"
+  },
+  "CHARACTER_BOOST_CRITICAL_DAMAGES_REDUCTION": {
+    "id": "420",
+    "en": "%s Critical Damages Reduction",
+    "fr": "Réduction des dégâts critiques de Boost de personnage"
+  },
+  "CHARACTER_DEBOOST_CRITICAL_DAMAGES_REDUCTION": {
+    "id": "421",
+    "en": "Character Deboost Critical Damages Reduction",
+    "fr": "Réduction des dégâts critiques de Boost de personnage"
+  },
+  "CHARACTER_BOOST_EARTH_DAMAGES": {
+    "id": "422",
+    "en": "%s Earth Damages",
+    "fr": "Augmente les dégâts de la terre"
+  },
+  "CHARACTER_DEBOOST_EARTH_DAMAGES": {
+    "id": "423",
+    "en": "Character Deboost Earth Damages",
+    "fr": "Dégâts de la Terre de Boost de personnage"
+  },
+  "CHARACTER_BOOST_FIRE_DAMAGES": {
+    "id": "424",
+    "en": "%s Fire Damages",
+    "fr": "Dégâts de feu Boost de personnage"
+  },
+  "CHARACTER_DEBOOST_FIRE_DAMAGES": {
+    "id": "425",
+    "en": "Character Deboost Fire Damages",
+    "fr": "Dégâts de feu de décompression du personnage"
+  },
+  "CHARACTER_BOOST_WATER_DAMAGES": {
+    "id": "426",
+    "en": "%s Water Damages",
+    "fr": "Augmentation des dégâts d'eau du personnage"
+  },
+  "CHARACTER_DEBOOST_WATER_DAMAGES": {
+    "id": "427",
+    "en": "Character Deboost Water Damages",
+    "fr": "Dégâts d'eau sur les personnages"
+  },
+  "CHARACTER_BOOST_AIR_DAMAGES": {
+    "id": "428",
+    "en": "%s Air Damages",
+    "fr": "Augmentation des dégâts aériens du personnage"
+  },
+  "CHARACTER_DEBOOST_AIR_DAMAGES": {
+    "id": "429",
+    "en": "Character Deboost Air Damages",
+    "fr": "Dégâts d'Air de Dégonflage des Personnages"
+  },
+  "CHARACTER_BOOST_NEUTRAL_DAMAGES": {
+    "id": "430",
+    "en": "%s Neutral Damages",
+    "fr": "Dégâts neutres de Boost de personnage"
+  },
+  "CHARACTER_DEBOOST_NEUTRAL_DAMAGES": {
+    "id": "431",
+    "en": "Character Deboost Neutral Damages",
+    "fr": "Dégâts neutres de Deboost de personnage"
+  },
+  "CHARACTER_POINTS_STEAL_NO_EVADE": {
+    "id": "440",
+    "en": "Character Points Steal No Evade",
+    "fr": "Points de personnage voler sans évasion"
+  },
+  "CHARACTER_MOVEMENT_POINTS_STEAL_NO_EVADE": {
+    "id": "441",
+    "en": "Character Movement Points Steal No Evade",
+    "fr": "Points de mouvement du personnage Steal No Evade"
+  },
+  "CHANGE_COMPASS_BY_COORD": {
+    "id": "509",
+    "en": "Change Compass By Coord",
+    "fr": "Changer la boussole par coord"
+  },
+  "ADD_PRISM": {
+    "id": "513",
+    "en": "Add Prism",
+    "fr": "Ajouter un prisme"
+  },
+  "SHOW_TAX_COLLECTOR_LIST": {
+    "id": "516",
+    "en": "Show Tax Collector List",
+    "fr": "Afficher la liste des percepteurs d'impôts"
+  },
+  "EXCHANGE_DECRAFT_OPEN": {
+    "id": "517",
+    "en": "Exchange Decraft Open",
+    "fr": "Échange Decraft Open"
+  },
+  "GOTO_WAYPOINT": {
+    "id": "600",
+    "en": "Goto Waypoint",
+    "fr": "Aller au waypoint"
+  },
+  "CHARACTER_LEARN_JOB": {
+    "id": "603",
+    "en": "Character Learn Job",
+    "fr": "Travail d'apprentissage de personnage"
+  },
+  "CHARACTER_LEARN_SPELL_LEVEL": {
+    "id": "604",
+    "en": "Character Learn Spell Level",
+    "fr": "Niveau de sort d'apprentissage du personnage"
+  },
+  "CHARACTER_GAIN_XP": {
+    "id": "605",
+    "en": "Character Gain Xp",
+    "fr": "Gain de personnage Xp"
+  },
+  "CHARACTER_GAIN_WISDOM": {
+    "id": "606",
+    "en": "Character Gain Wisdom",
+    "fr": "Le personnage gagne en sagesse"
+  },
+  "CHARACTER_GAIN_STRENGTH": {
+    "id": "607",
+    "en": "Character Gain Strength",
+    "fr": "Le personnage gagne en force"
+  },
+  "CHARACTER_GAIN_CHANCE": {
+    "id": "608",
+    "en": "Character Gain Chance",
+    "fr": "Chance de gain de personnage"
+  },
+  "CHARACTER_GAIN_AGILITY": {
+    "id": "609",
+    "en": "Character Gain Agility",
+    "fr": "Caractère Gain d'Agilité"
+  },
+  "CHARACTER_GAIN_VITALITY": {
+    "id": "610",
+    "en": "Character Gain Vitality",
+    "fr": "Le personnage gagne en vitalité"
+  },
+  "CHARACTER_GAIN_INTELLIGENCE": {
+    "id": "611",
+    "en": "Character Gain Intelligence",
+    "fr": "Caractère gagner en intelligence"
+  },
+  "CHARACTER_GAIN_STATS_POINTS": {
+    "id": "612",
+    "en": "Character Gain Stats Points",
+    "fr": "Points de statistiques de gain de personnage"
+  },
+  "CHARACTER_GAIN_JOB_XP": {
+    "id": "614",
+    "en": "Character Gain Job Xp",
+    "fr": "Gain de personnage Job Xp"
+  },
+  "CHARACTER_UNLEARN_JOB": {
+    "id": "615",
+    "en": "Character Unlearn Job",
+    "fr": "Tâche non apprise du personnage"
+  },
+  "CHARACTER_READ_BOOK": {
+    "id": "620",
+    "en": "Character Read Book",
+    "fr": "Livre de lecture de personnage"
+  },
+  "CHARACTER_SUMMON_MONSTER": {
+    "id": "621",
+    "en": "Character Summon Monster",
+    "fr": "Monstre d'invocation de personnage"
+  },
+  "GOTO_HOUSE": {
+    "id": "622",
+    "en": "Goto House",
+    "fr": "Aller à la maison"
+  },
+  "CHARACTER_SUMMON_MONSTER_GROUP": {
+    "id": "623",
+    "en": "Character Summon Monster Group",
+    "fr": "Groupe de monstres d'invocation de personnage"
+  },
+  "CHARACTER_UNLEARN_GUILDSPELL": {
+    "id": "624",
+    "en": "Character Unlearn Guildspell",
+    "fr": "Sort de guilde de personnage non appris"
+  },
+  "CHARACTER_RESET_CHARACS": {
+    "id": "626",
+    "en": "Character Reset Characs",
+    "fr": "Caractères de réinitialisation de personnage"
+  },
+  "CHARACTER_SUMMON_MONSTER_GROUP_SET_MAP": {
+    "id": "627",
+    "en": "Character Summon Monster Group Set Map",
+    "fr": "Carte de jeu de groupe de monstres d'invocation de personnage"
+  },
+  "CHARACTER_SUMMON_MONSTER_GROUP_DYNAMIC": {
+    "id": "628",
+    "en": "Character Summon Monster Group Dynamic",
+    "fr": "Personnage Summon Monster Group Dynamic"
+  },
+  "CHARACTER_LEARN_SPELL": {
+    "id": "629",
+    "en": "Character Learn Spell",
+    "fr": "Personnage apprendre le sort"
+  },
+  "CHARACTER_SEND_INFORMATION_TEXT": {
+    "id": "630",
+    "en": "Character Send Information Text",
+    "fr": "Texte d'information d'envoi de caractère"
+  },
+  "CHARACTER_SEND_ERROR_TEXT": {
+    "id": "632",
+    "en": "Character Send Error Text",
+    "fr": "Texte d'erreur d'envoi de caractères"
+  },
+  "CHARACTER_GAIN_HONOUR": {
+    "id": "640",
+    "en": "Character Gain Honour",
+    "fr": "Le personnage gagne de l'honneur"
+  },
+  "CHARACTER_GAIN_DISHONOUR": {
+    "id": "641",
+    "en": "Character Gain Dishonour",
+    "fr": "Déshonneur de gain de personnage"
+  },
+  "CHARACTER_LOOSE_HONOUR": {
+    "id": "642",
+    "en": "Character Loose Honour",
+    "fr": "Honneur lâche du personnage"
+  },
+  "CHARACTER_LOOSE_DISHONOUR": {
+    "id": "643",
+    "en": "Character Loose Dishonour",
+    "fr": "Caractère déshonneur lâche"
+  },
+  "MAP_RESURECTION_ALLIES": {
+    "id": "645",
+    "en": "Map Resurection Allies",
+    "fr": "Alliés de résurrection de carte"
+  },
+  "MAP_HEAL_ALLIES": {
+    "id": "646",
+    "en": "Map Heal Allies",
+    "fr": "Carte Guérir les alliés"
+  },
+  "MAP_FORCE_ENNEMIES_GHOST": {
+    "id": "647",
+    "en": "Map Force Ennemies Ghost",
+    "fr": "Carte Force Enemies Ghost"
+  },
+  "FORCE_ENNEMY_GHOST": {
+    "id": "648",
+    "en": "Force Ennemy Ghost",
+    "fr": "Fantôme ennemi de force"
+  },
+  "FAKE_ALIGNMENT": {
+    "id": "649",
+    "en": "Fake Alignment",
+    "fr": "Faux alignement"
+  },
+  "SET_STATED_ELEMENT_STATE": {
+    "id": "652",
+    "en": "Set Stated Element State",
+    "fr": "Définir l'état de l'élément déclaré"
+  },
+  "INSTANCIEDMAP_LEAVE": {
+    "id": "654",
+    "en": "Instanciedmap Leave",
+    "fr": "Quitter Instanciedmap"
+  },
+  "NOOP": {
+    "id": "666",
+    "en": "Noop",
+    "fr": "Noop"
+  },
+  "KILL_FIGHT": {
+    "id": "667",
+    "en": "Kill Fight",
+    "fr": "Tuer le combat"
+  },
+  "INCARNATION": {
+    "id": "669",
+    "en": "Incarnation",
+    "fr": "Incarnation"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_CASTER_LIFE_REDUCED_BY_CASTER": {
+    "id": "670",
+    "en": "Character Life Points Lost Based On Caster Life Reduced By Caster",
+    "fr": "Points de vie du personnage perdus en fonction de la durée de vie des roulettes réduite par la roulette"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_CASTER_LIFE_NOT_REDUCED": {
+    "id": "671",
+    "en": "Character Life Points Lost Based On Caster Life Not Reduced",
+    "fr": "Les points de vie des personnages perdus en fonction de la vie des roulettes ne sont pas réduits"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_CASTER_LIFE_MIDLIFE": {
+    "id": "672",
+    "en": "Character Life Points Lost Based On Caster Life Midlife",
+    "fr": "Points de vie du personnage perdus en fonction de la quarantaine de la vie de roulette"
+  },
+  "CHARACTER_REFERENCEMENT": {
+    "id": "699",
+    "en": "Character Referencement",
+    "fr": "Référencement de personnage"
+  },
+  "ITEM_CHANGE_EFFECT": {
+    "id": "700",
+    "en": "Item Change Effect",
+    "fr": "Effet de changement d'objet"
+  },
+  "ITEM_ADD_EFFECT": {
+    "id": "701",
+    "en": "Item Add Effect",
+    "fr": "Effet d'ajout d'élément"
+  },
+  "ITEM_ADD_DURABILITY": {
+    "id": "702",
+    "en": "Item Add Durability",
+    "fr": "Élément Ajouter la durabilité"
+  },
+  "CAPTURE_SOUL": {
+    "id": "705",
+    "en": "Capture Soul",
+    "fr": "Capturer l'âme"
+  },
+  "CAPTURE_RIDE": {
+    "id": "706",
+    "en": "Capture Ride",
+    "fr": "Capture Ride"
+  },
+  "ITEM_EQUIP_PRESET": {
+    "id": "707",
+    "en": "Item Equip Preset",
+    "fr": "Préréglage d'équipement d'article"
+  },
+  "CHARACTER_ADD_COST_TO_ACTION": {
+    "id": "710",
+    "en": "Character Add Cost To Action",
+    "fr": "Caractère Ajouter un coût à l'action"
+  },
+  "LADDER_SUPERRACE": {
+    "id": "715",
+    "en": "Ladder Superrace",
+    "fr": "Échelle Superrace"
+  },
+  "LADDER_RACE": {
+    "id": "716",
+    "en": "Ladder Race",
+    "fr": "Course à l'échelle"
+  },
+  "LADDER_ID": {
+    "id": "717",
+    "en": "Ladder Id",
+    "fr": "Id d'échelle"
+  },
+  "PVP_LADDER": {
+    "id": "720",
+    "en": "Pvp Ladder",
+    "fr": "Échelle Pvp"
+  },
+  "CHARACTER_LEARN_SPELL_TEMPORARY": {
+    "id": "722",
+    "en": "Character Learn Spell Temporary",
+    "fr": "Apprentissage du personnage temporaire"
+  },
+  "GAIN_TITLE": {
+    "id": "724",
+    "en": "Gain Title",
+    "fr": "Gagner le titre"
+  },
+  "CHARACTER_RENAME_INVALID_GUILD": {
+    "id": "725",
+    "en": "Character Rename Invalid Guild",
+    "fr": "Renommer une guilde invalide"
+  },
+  "GAIN_ORNAMENT": {
+    "id": "726",
+    "en": "Gain Ornament",
+    "fr": "Gain d'ornement"
+  },
+  "TELEPORT_NEAREST_PRISM": {
+    "id": "730",
+    "en": "Teleport Nearest Prism",
+    "fr": "Téléporter le prisme le plus proche"
+  },
+  "AUTO_AGGRESS_ENEMY_PLAYER": {
+    "id": "731",
+    "en": "Auto Aggress Enemy Player",
+    "fr": "Joueur ennemi Auto Aggress"
+  },
+  "RESIST_AUTO_AGGRESS": {
+    "id": "732",
+    "en": "Resist Auto Aggress",
+    "fr": "Résister à l'agression automatique"
+  },
+  "SHUSHU_STACK_RUNE_WEAPON": {
+    "id": "740",
+    "en": "Shushu Stack Rune Weapon",
+    "fr": "Arme runique Shushu Stack"
+  },
+  "SHUSHU_STOCKED_RUNE": {
+    "id": "741",
+    "en": "Shushu Stocked Rune",
+    "fr": "Rune stockée de Shushu"
+  },
+  "SHUSHU_STACK_RUNE": {
+    "id": "742",
+    "en": "Shushu Stack Rune",
+    "fr": "Rune de pile de Shushu"
+  },
+  "BOOST_SOUL_CAPTURE_BONUS": {
+    "id": "750",
+    "en": "Boost Soul Capture Bonus",
+    "fr": "Augmentation du bonus de capture d'âme"
+  },
+  "BOOST_RIDE_XP_BONUS": {
+    "id": "751",
+    "en": "Boost Ride Xp Bonus",
+    "fr": "Bonus Boost Ride Xp"
+  },
+  "CHARACTER_BOOST_TAKLE_EVADE": {
+    "id": "752",
+    "en": "%s Takle Evade",
+    "fr": "Boost de personnage Takle Evade"
+  },
+  "CHARACTER_BOOST_TAKLE_BLOCK": {
+    "id": "753",
+    "en": "%s Takle Block",
+    "fr": "Bloc de Takle Boost de personnage"
+  },
+  "CHARACTER_DEBOOST_TAKLE_EVADE": {
+    "id": "754",
+    "en": "Character Deboost Takle Evade",
+    "fr": "Personnage Deboost Takle Evade"
+  },
+  "CHARACTER_DEBOOST_TAKLE_BLOCK": {
+    "id": "755",
+    "en": "Character Deboost Takle Block",
+    "fr": "Bloc de Takle Deboost de personnage"
+  },
+  "REMOVE_ON_MOVE": {
+    "id": "760",
+    "en": "Remove On Move",
+    "fr": "Supprimer en mouvement"
+  },
+  "CHARACTER_SACRIFY": {
+    "id": "765",
+    "en": "Character Sacrify",
+    "fr": "Sacrifice de personnage"
+  },
+  "CLOCKWISE_CONFUSION_DEGREE": {
+    "id": "770",
+    "en": "Clockwise Confusion Degree",
+    "fr": "Degré de confusion dans le sens des aiguilles d'une montre"
+  },
+  "CLOCKWISE_CONFUSION_PI_2": {
+    "id": "771",
+    "en": "Clockwise Confusion Pi 2",
+    "fr": "Confusion dans le sens des aiguilles d'une montre Pi 2"
+  },
+  "CLOCKWISE_CONFUSION_PI_4": {
+    "id": "772",
+    "en": "Clockwise Confusion Pi 4",
+    "fr": "Confusion dans le sens des aiguilles d'une montre Pi 4"
+  },
+  "COUNTER_CLOCKWISE_CONFUSION_DEGREE": {
+    "id": "773",
+    "en": "Counter Clockwise Confusion Degree",
+    "fr": "Degré de confusion dans le sens anti-horaire"
+  },
+  "COUNTER_CLOCKWISE_CONFUSION_PI_2": {
+    "id": "774",
+    "en": "Counter Clockwise Confusion Pi 2",
+    "fr": "Confusion anti-horaire Pi 2"
+  },
+  "COUNTER_CLOCKWISE_CONFUSION_PI_4": {
+    "id": "775",
+    "en": "Counter Clockwise Confusion Pi 4",
+    "fr": "Confusion anti-horaire Pi 4"
+  },
+  "CHARACTER_BOOST_PERMANENT_DAMAGE_PERCENT": {
+    "id": "776",
+    "en": "%s Permanent Damage Percent",
+    "fr": "Pourcentage de dégâts permanents de Boost de personnage"
+  },
+  "CHARACTER_CHANGE_RESPAWN_MAP_BY_REF": {
+    "id": "778",
+    "en": "Character Change Respawn Map By Ref",
+    "fr": "Carte de réapparition de changement de personnage par référence"
+  },
+  "CHARACTER_TELEPORT_ON_PREVIOUS_MAP": {
+    "id": "779",
+    "en": "Character Teleport On Previous Map",
+    "fr": "Téléportation de personnage sur la carte précédente"
+  },
+  "CHARACTER_SUMMON_DEAD_ALLY_IN_FIGHT": {
+    "id": "780",
+    "en": "Character Summon Dead Ally In Fight",
+    "fr": "Personnage Summon Dead Ally In Fight"
+  },
+  "CHARACTER_UNLUCKY": {
+    "id": "781",
+    "en": "Character Unlucky",
+    "fr": "Personnage malchanceux"
+  },
+  "CHARACTER_MAXIMIZE_ROLL": {
+    "id": "782",
+    "en": "Character Maximize Roll",
+    "fr": "Rouleau de maximisation du personnage"
+  },
+  "CHARACTER_PUSH_UP_TO": {
+    "id": "783",
+    "en": "Character Push Up To",
+    "fr": "Personnage Push Up To"
+  },
+  "CHARACTER_TELEPORT_TO_FIGHT_START_POS": {
+    "id": "784",
+    "en": "Character Teleport To Fight Start Pos",
+    "fr": "Téléportation de personnage pour combattre la position de départ"
+  },
+  "CHARACTER_WALK_FOUR_DIR": {
+    "id": "785",
+    "en": "Character Walk Four Dir",
+    "fr": "Personnage Marche Quatre Dir"
+  },
+  "CHARACTER_HEAL_ATTACKERS": {
+    "id": "786",
+    "en": "Character Heal Attackers",
+    "fr": "Guérison des attaquants"
+  },
+  "CHARACTER_PUNISHMENT": {
+    "id": "788",
+    "en": "Character Punishment",
+    "fr": "Punition du personnage"
+  },
+  "CHARACTER_LOOSE_ALL_ITEMS_FROM_CATEGORY": {
+    "id": "789",
+    "en": "Character Loose All Items From Category",
+    "fr": "Personnage perd tous les objets de la catégorie"
+  },
+  "FIND_BOUNTY_TARGET": {
+    "id": "790",
+    "en": "Find Bounty Target",
+    "fr": "Find Bounty Target"
+  },
+  "MARK_TARGET_MERCENARY": {
+    "id": "791",
+    "en": "Mark Target Mercenary",
+    "fr": "Marquer le mercenaire cible"
+  },
+  "TARGET_EXECUTE_SPELL": {
+    "id": "792",
+    "en": "Target Execute Spell",
+    "fr": "Exécuter le sort cible"
+  },
+  "TARGET_EXECUTE_SPELL_WITH_ANIMATION": {
+    "id": "793",
+    "en": "Target Execute Spell With Animation",
+    "fr": "Exécuter le sort cible avec animation"
+  },
+  "HUNT_TOOL": {
+    "id": "795",
+    "en": "Hunt Tool",
+    "fr": "Outil de chasse"
+  },
+  "CHARACTER_RESTORE_RESPAWN_MAP": {
+    "id": "796",
+    "en": "Character Restore Respawn Map",
+    "fr": "Carte de réapparition de restauration de personnage"
+  },
+  "ITEM_CHANGE_DURATION": {
+    "id": "805",
+    "en": "Item Change Duration",
+    "fr": "Durée du changement d'élément"
+  },
+  "ITEM_PETS_SHAPE": {
+    "id": "806",
+    "en": "Item Pets Shape",
+    "fr": "Objet Forme des animaux de compagnie"
+  },
+  "ITEM_PETS_EAT": {
+    "id": "807",
+    "en": "Item Pets Eat",
+    "fr": "Item Pets Eat"
+  },
+  "PETS_LAST_MEAL": {
+    "id": "808",
+    "en": "Pets Last Meal",
+    "fr": "Pets Last Meal"
+  },
+  "SIZE": {
+    "id": "810",
+    "en": "Size",
+    "fr": "Taille"
+  },
+  "ITEM_BUFF_CHANGE_DURATION": {
+    "id": "811",
+    "en": "Item Buff Change Duration",
+    "fr": "Durée du changement de buff d'objet"
+  },
+  "ITEM_CHANGE_DURABILITY": {
+    "id": "812",
+    "en": "Item Change Durability",
+    "fr": "Durabilité du changement d'article"
+  },
+  "ITEM_UPDATE_DATE": {
+    "id": "813",
+    "en": "Item Update Date",
+    "fr": "Date de mise à jour de l'article"
+  },
+  "ITEM_DUNGEON_KEY_DATE": {
+    "id": "814",
+    "en": "Item Dungeon Key Date",
+    "fr": "Date de la clé du donjon de l'objet"
+  },
+  "ITEM_FM_LOST_POWER": {
+    "id": "815",
+    "en": "Item Fm Lost Power",
+    "fr": "Élément Fm Puissance perdue"
+  },
+  "ITEM_RESET_DATE": {
+    "id": "816",
+    "en": "Item Reset Date",
+    "fr": "Date de réinitialisation de l'élément"
+  },
+  "ITEM_TELEPORT_FORCE": {
+    "id": "825",
+    "en": "Item Teleport Force",
+    "fr": "Objet Teleport Force"
+  },
+  "ITEM_TELEPORT_MAP_REFERENCE": {
+    "id": "826",
+    "en": "Item Teleport Map Reference",
+    "fr": "Référence de carte de téléportation d'article"
+  },
+  "FIGHT_CHALLENGE_AGAINST_MONSTER": {
+    "id": "905",
+    "en": "Fight Challenge Against Monster",
+    "fr": "Combattre le défi contre le monstre"
+  },
+  "FIGHT_CHALLENGE_MIXED_VERSUS_MONSTER": {
+    "id": "911",
+    "en": "Fight Challenge Mixed Versus Monster",
+    "fr": "Combattre défi mixte contre monstre"
+  },
+  "CHARACTER_SEND_NOTIFICATION_TEXT": {
+    "id": "916",
+    "en": "Character Send Notification Text",
+    "fr": "Texte de notification d'envoi de caractères"
+  },
+  "CHARACTER_SEND_NOTIFICATION_ALERT_TEXT": {
+    "id": "917",
+    "en": "Character Send Notification Alert Text",
+    "fr": "Texte d'alerte de notification d'envoi de caractères"
+  },
+  "PET_SET_POWER_BOOST": {
+    "id": "939",
+    "en": "Pet Set Power Boost",
+    "fr": "Boost de puissance pour familier"
+  },
+  "PET_POWER_BOOST": {
+    "id": "940",
+    "en": "Pet Power Boost",
+    "fr": "Boost de puissance pour animaux de compagnie"
+  },
+  "FARM_TEMP_WITHDRAW_ITEM": {
+    "id": "946",
+    "en": "Farm Temp Withdraw Item",
+    "fr": "Farm Temp Withdraw Item"
+  },
+  "FARM_WITHDRAW_ITEM": {
+    "id": "947",
+    "en": "Farm Withdraw Item",
+    "fr": "Élément de retrait de ferme"
+  },
+  "FARM_PLACE_ITEM": {
+    "id": "948",
+    "en": "Farm Place Item",
+    "fr": "Objet de la ferme"
+  },
+  "MOUNT_RIDE": {
+    "id": "949",
+    "en": "Mount Ride",
+    "fr": "Monter le tour"
+  },
+  "FIGHT_SET_STATE": {
+    "id": "950",
+    "en": "Fight Set State",
+    "fr": "État de l'ensemble de combat"
+  },
+  "FIGHT_UNSET_STATE": {
+    "id": "951",
+    "en": "Fight Unset State",
+    "fr": "Fight Unset State"
+  },
+  "FIGHT_DISABLE_STATE": {
+    "id": "952",
+    "en": "Fight Disable State",
+    "fr": "Fight Disable State"
+  },
+  "CREATED_SINCE": {
+    "id": "963",
+    "en": "Created Since",
+    "fr": "Créé depuis"
+  },
+  "SHOW_PLAYERNAME": {
+    "id": "964",
+    "en": "Show Playername",
+    "fr": "Afficher le nom d'utilisateur"
+  },
+  "ITEM_LIVING_ID": {
+    "id": "970",
+    "en": "Item Living Id",
+    "fr": "Identifiant de l'objet vivant"
+  },
+  "ITEM_LIVING_MOOD": {
+    "id": "971",
+    "en": "Item Living Mood",
+    "fr": "Item Living Mood"
+  },
+  "ITEM_LIVING_SKIN": {
+    "id": "972",
+    "en": "Item Living Skin",
+    "fr": "Objet peau vivante"
+  },
+  "ITEM_LIVING_CATEGORY": {
+    "id": "973",
+    "en": "Item Living Category",
+    "fr": "Catégorie de vie d'article"
+  },
+  "ITEM_LIVING_LEVEL": {
+    "id": "974",
+    "en": "Item Living Level",
+    "fr": "Niveau de vie de l'objet"
+  },
+  "MARK_NEVER_TRADABLE_STRONG": {
+    "id": "981",
+    "en": "Mark Never Tradable Strong",
+    "fr": "Mark Never Tradable Strong"
+  },
+  "MARK_NEVER_TRADABLE": {
+    "id": "982",
+    "en": "Mark Never Tradable",
+    "fr": "Mark Never Tradable"
+  },
+  "MARK_NOT_TRADABLE": {
+    "id": "983",
+    "en": "Mark Not Tradable",
+    "fr": "Marquer non négociable"
+  },
+  "MARK_LEGIT_OWNER": {
+    "id": "984",
+    "en": "Mark Legit Owner",
+    "fr": "Mark Legit Owner"
+  },
+  "SET_CRAFTERMAGE": {
+    "id": "985",
+    "en": "Set Craftermage",
+    "fr": "Définir Craftermage"
+  },
+  "MARK_TARGET": {
+    "id": "986",
+    "en": "Mark Target",
+    "fr": "Marquer la cible"
+  },
+  "SET_OWNER": {
+    "id": "987",
+    "en": "Set Owner",
+    "fr": "Définir le propriétaire"
+  },
+  "SET_CRAFTER": {
+    "id": "988",
+    "en": "Set Crafter",
+    "fr": "Set Crafter"
+  },
+  "SEEK_TARGET": {
+    "id": "989",
+    "en": "Seek Target",
+    "fr": "Rechercher une cible"
+  },
+  "SHOW_TEXT": {
+    "id": "990",
+    "en": "Show Text",
+    "fr": "Afficher le texte"
+  },
+  "RIDE_INVALID": {
+    "id": "994",
+    "en": "Ride Invalid",
+    "fr": "Ride invalide"
+  },
+  "RIDE_DETAILS": {
+    "id": "995",
+    "en": "Ride Details",
+    "fr": "Détails du trajet"
+  },
+  "ITEM_TELEPORT": {
+    "id": "999",
+    "en": "Item Teleport",
+    "fr": "Téléportation d'objet"
+  },
+  "FARM_OBJET_EFFICACITY": {
+    "id": "1007",
+    "en": "Farm Objet Efficacity",
+    "fr": "Farm Objet Efficacity"
+  },
+  "SUMMON_BOMB": {
+    "id": "1008",
+    "en": "Summon Bomb",
+    "fr": "Invocation de bombe"
+  },
+  "CHARACTER_ACTIVATE_BOMB": {
+    "id": "1009",
+    "en": "Character Activate Bomb",
+    "fr": "Bombe d'activation de personnage"
+  },
+  "SUMMON_SLAVE": {
+    "id": "1011",
+    "en": "Summon Slave",
+    "fr": "Summon Slave"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_MOVEMENT_POINTS": {
+    "id": "1012",
+    "en": "Character Life Points Lost Based On Movement Points",
+    "fr": "Character Life Points Lost Based On Movement Points"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_MOVEMENT_POINTS_FROM_AIR": {
+    "id": "1013",
+    "en": "Character Life Points Lost Based On Movement Points From Air",
+    "fr": "Character Life Points Lost Based On Movement Points From Air"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_MOVEMENT_POINTS_FROM_WATER": {
+    "id": "1014",
+    "en": "Character Life Points Lost Based On Movement Points From Water",
+    "fr": "Character Life Points Lost Based On Movement Points From Water"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_MOVEMENT_POINTS_FROM_FIRE": {
+    "id": "1015",
+    "en": "Character Life Points Lost Based On Movement Points From Fire",
+    "fr": "Character Life Points Lost Based On Movement Points From Fire"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_MOVEMENT_POINTS_FROM_EARTH": {
+    "id": "1016",
+    "en": "Character Life Points Lost Based On Movement Points From Earth",
+    "fr": "Character Life Points Lost Based On Movement Points From Earth"
+  },
+  "TARGET_EXECUTE_SPELL_ON_SOURCE": {
+    "id": "1017",
+    "en": "Target Execute Spell On Source",
+    "fr": "Cible Exécuter le sort à la source"
+  },
+  "SOURCE_EXECUTE_SPELL_ON_TARGET": {
+    "id": "1018",
+    "en": "Source Execute Spell On Target",
+    "fr": "Source Exécuter le sort sur la cible"
+  },
+  "SOURCE_EXECUTE_SPELL_ON_SOURCE": {
+    "id": "1019",
+    "en": "Source Execute Spell On Source",
+    "fr": "Source Execute Spell On Source"
+  },
+  "CHARACTER_BOOST_SHIELD_BASED_ON_CASTER_LEVEL": {
+    "id": "1020",
+    "en": "%s Shield Based On Caster Level",
+    "fr": "%s Shield Based On Caster Level"
+  },
+  "CHARACTER_PUSH_FORCE": {
+    "id": "1021",
+    "en": "Character Push Force",
+    "fr": "Character Push Force"
+  },
+  "CHARACTER_PULL_FORCE": {
+    "id": "1022",
+    "en": "Character Pull Force",
+    "fr": "Force de traction du personnage"
+  },
+  "CHARACTER_EXCHANGE_PLACES_FORCE": {
+    "id": "1023",
+    "en": "Character Exchange Places Force",
+    "fr": "Character Exchange Places Force"
+  },
+  "CHARACTER_ADD_ILLUSION_RANDOM": {
+    "id": "1024",
+    "en": "Character Add Illusion Random",
+    "fr": "Caractère ajouter illusion aléatoire"
+  },
+  "FORCE_TRAP_TRIGGER": {
+    "id": "1025",
+    "en": "Force Trap Trigger",
+    "fr": "Déclencheur de piège de force"
+  },
+  "FORCE_GLYPH_TRIGGER": {
+    "id": "1026",
+    "en": "Force Glyph Trigger",
+    "fr": "Déclenchement de glyphe de force"
+  },
+  "BOMB_COMBO_BONUS": {
+    "id": "1027",
+    "en": "Bomb Combo Bonus",
+    "fr": "Bonus de combo bombe"
+  },
+  "BOMB_TRIGGER_POWDER": {
+    "id": "1028",
+    "en": "Bomb Trigger Powder",
+    "fr": "Poudre de déclenchement de bombe"
+  },
+  "CHARACTER_VANISH": {
+    "id": "1029",
+    "en": "Character Vanish",
+    "fr": "Caractère dispara\u00eetre"
+  },
+  "FIGHT_ADD_POWDER_CASTING_SPELL": {
+    "id": "1030",
+    "en": "Fight Add Powder Casting Spell",
+    "fr": "Combattre Ajouter un sort de poudre"
+  },
+  "CHARACTER_PASS_CURRENT_TURN": {
+    "id": "1031",
+    "en": "Character Pass Current Turn",
+    "fr": "Passage du personnage Tour actuel"
+  },
+  "MARK_LEGIT_OWNER_TIMESTAMP": {
+    "id": "1032",
+    "en": "Mark Legit Owner Timestamp",
+    "fr": "Mark Legit Owner Timestamp"
+  },
+  "CHARACTER_DEBOOST_VITALITY_PERCENT_STATIC": {
+    "id": "1033",
+    "en": "Character Deboost Vitality Percent Static",
+    "fr": "Caractère Deboost Vitalité Pourcentage Statique"
+  },
+  "CHARACTER_SUMMON_DEAD_ALLY_AS_SUMMON_IN_FIGHT": {
+    "id": "1034",
+    "en": "Character Summon Dead Ally As Summon In Fight",
+    "fr": "Character Summon Dead Ally As Summon In Fight"
+  },
+  "CHARACTER_ADD_SPELL_COOLDOWN": {
+    "id": "1035",
+    "en": "Character Add Spell Cooldown",
+    "fr": "Temps de recharge pour ajouter un sort de personnage"
+  },
+  "CHARACTER_REMOVE_SPELL_COOLDOWN": {
+    "id": "1036",
+    "en": "Character Remove Spell Cooldown",
+    "fr": "Temps de recharge pour supprimer le sort du personnage"
+  },
+  "CHARACTER_LIFE_POINTS_WIN_ZOBAL": {
+    "id": "1037",
+    "en": "Character Life Points Win Zobal",
+    "fr": "Character Life Points Win Zobal"
+  },
+  "CHARACTER_AURA": {
+    "id": "1038",
+    "en": "Character Aura",
+    "fr": "Character Aura"
+  },
+  "CHARACTER_BOOST_SHIELD_BASED_ON_CASTER_LIFE": {
+    "id": "1039",
+    "en": "%s Shield Based On Caster Life",
+    "fr": "%s Shield Based On Caster Life"
+  },
+  "CHARACTER_BOOST_SHIELD": {
+    "id": "1040",
+    "en": "%s Shield",
+    "fr": "%s Shield"
+  },
+  "CHARACTER_GET_PUSHED": {
+    "id": "1041",
+    "en": "Character Get Pushed",
+    "fr": "Character Get Pushed"
+  },
+  "CHARACTER_GET_PULLED": {
+    "id": "1042",
+    "en": "Character Get Pulled",
+    "fr": "Character Get Pulled"
+  },
+  "CHARACTER_PULL_UP_TO": {
+    "id": "1043",
+    "en": "Character Pull Up To",
+    "fr": "Character Pull Up To"
+  },
+  "CHARACTER_PROTECTION_FROM_SPELL": {
+    "id": "1044",
+    "en": "Character Protection From Spell",
+    "fr": "Character Protection From Spell"
+  },
+  "CHARACTER_SET_SPELL_COOLDOWN": {
+    "id": "1045",
+    "en": "Character Set Spell Cooldown",
+    "fr": "Character Set Spell Cooldown"
+  },
+  "CHARACTER_LIFE_POINTS_MALUS": {
+    "id": "1047",
+    "en": "Character Life Points Malus",
+    "fr": "Character Life Points Malus"
+  },
+  "CHARACTER_LIFE_POINTS_MALUS_PERCENT": {
+    "id": "1048",
+    "en": "Character Life Points Malus Percent",
+    "fr": "Character Life Points Malus Percent"
+  },
+  "CHARACTER_GAIN_LEVEL": {
+    "id": "1049",
+    "en": "Character Gain Level",
+    "fr": "Character Gain Level"
+  },
+  "CHARACTER_EXIT_DUNGEON": {
+    "id": "1051",
+    "en": "Character Exit Dungeon",
+    "fr": "Character Exit Dungeon"
+  },
+  "CHARACTER_RESUME_DUNGEON": {
+    "id": "1052",
+    "en": "Character Resume Dungeon",
+    "fr": "Character Resume Dungeon"
+  },
+  "CHARACTER_ENTER_DUNGEON": {
+    "id": "1053",
+    "en": "Character Enter Dungeon",
+    "fr": "Character Enter Dungeon"
+  },
+  "CHARACTER_BOOST_DAMAGES_PERCENT_SPELLS": {
+    "id": "1054",
+    "en": "%s Damages Percent Spells",
+    "fr": "%s Damages Percent Spells"
+  },
+  "CHARACTER_CLEAR_DUNGEON_SAVE": {
+    "id": "1055",
+    "en": "Character Clear Dungeon Save",
+    "fr": "Sauvegarde du donjon de fin de personnage"
+  },
+  "CHARACTER_BOOST_SHIELD_BASED_ON_CASTER_LIFE_TURN_BASED": {
+    "id": "1056",
+    "en": "%s Shield Based On Caster Life Turn Based",
+    "fr": "%s Shield Based On Caster Life Turn Based"
+  },
+  "STATIC_VALUE_MODIFY": {
+    "id": "1057",
+    "en": "Static Value Modify",
+    "fr": "Static Value Modify"
+  },
+  "STATIC_VALUE_SET": {
+    "id": "1058",
+    "en": "Static Value Set",
+    "fr": "Static Value Set"
+  },
+  "CHARACTER_CUSTOM_MOUNT": {
+    "id": "1059",
+    "en": "Character Custom Mount",
+    "fr": "Character Custom Mount"
+  },
+  "CHARACTER_ADD_SCALE_FLAT": {
+    "id": "1060",
+    "en": "Character Add Scale Flat",
+    "fr": "Character Add Scale Flat"
+  },
+  "CHARACTER_SHARE_DAMAGES": {
+    "id": "1061",
+    "en": "Character Share Damages",
+    "fr": "Character Share Damages"
+  },
+  "OPEN_URL": {
+    "id": "1062",
+    "en": "Open Url",
+    "fr": "Open Url"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_NO_BOOST_FROM_EARTH": {
+    "id": "1063",
+    "en": "Character Life Points Lost No Boost From Earth",
+    "fr": "Character Life Points Lost No Boost From Earth"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_NO_BOOST_FROM_AIR": {
+    "id": "1064",
+    "en": "Character Life Points Lost No Boost From Air",
+    "fr": "Character Life Points Lost No Boost From Air"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_NO_BOOST_FROM_WATER": {
+    "id": "1065",
+    "en": "Character Life Points Lost No Boost From Water",
+    "fr": "Character Life Points Lost No Boost From Water"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_NO_BOOST_FROM_FIRE": {
+    "id": "1066",
+    "en": "Character Life Points Lost No Boost From Fire",
+    "fr": "Character Life Points Lost No Boost From Fire"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_TARGET_LIFE_FROM_AIR": {
+    "id": "1067",
+    "en": "Character Life Points Lost Based On Target Life From Air",
+    "fr": "Character Life Points Lost Based On Target Life From Air"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_TARGET_LIFE_FROM_WATER": {
+    "id": "1068",
+    "en": "Character Life Points Lost Based On Target Life From Water",
+    "fr": "Character Life Points Lost Based On Target Life From Water"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_TARGET_LIFE_FROM_FIRE": {
+    "id": "1069",
+    "en": "Character Life Points Lost Based On Target Life From Fire",
+    "fr": "Character Life Points Lost Based On Target Life From Fire"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_TARGET_LIFE_FROM_EARTH": {
+    "id": "1070",
+    "en": "Character Life Points Lost Based On Target Life From Earth",
+    "fr": "Character Life Points Lost Based On Target Life From Earth"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_TARGET_LIFE": {
+    "id": "1071",
+    "en": "Character Life Points Lost Based On Target Life",
+    "fr": "Character Life Points Lost Based On Target Life"
+  },
+  "CHARACTER_TAUNT": {
+    "id": "1072",
+    "en": "Character Taunt",
+    "fr": "Character Taunt"
+  },
+  "ITEM_CHANGE_EFFECT_SAFE": {
+    "id": "1073",
+    "en": "Item Change Effect Safe",
+    "fr": "Item Change Effect Safe"
+  },
+  "MEETING_POINT": {
+    "id": "1074",
+    "en": "Meeting Point",
+    "fr": "Meeting Point"
+  },
+  "CHARACTER_SHORTEN_ACTIVE_EFFECTS_DURATION": {
+    "id": "1075",
+    "en": "Character Shorten Active Effects Duration",
+    "fr": "Character Shorten Active Effects Duration"
+  },
+  "CHARACTER_BOOST_RESIST_PERCENT": {
+    "id": "1076",
+    "en": "%s Resist Percent",
+    "fr": "%s Resist Percent"
+  },
+  "CHARACTER_DEBOOST_RESIST_PERCENT": {
+    "id": "1077",
+    "en": "Character Deboost Resist Percent",
+    "fr": "Character Deboost Resist Percent"
+  },
+  "CHARACTER_BOOST_VITALITY_PERCENT_STATIC": {
+    "id": "1078",
+    "en": "%s Vitality Percent Static",
+    "fr": "%s Vitality Percent Static"
+  },
+  "CHARACTER_DEBOOST_POINTS_DODGEABLE": {
+    "id": "1079",
+    "en": "Character Deboost Points Dodgeable",
+    "fr": "Character Deboost Points Dodgeable"
+  },
+  "CHARACTER_DEBOOST_MOVEMENT_POINTS_DODGEABLE": {
+    "id": "1080",
+    "en": "Character Deboost Movement Points Dodgeable",
+    "fr": "Character Deboost Movement Points Dodgeable"
+  },
+  "ITEM_EXTRA_PODS": {
+    "id": "1081",
+    "en": "Item Extra Pods",
+    "fr": "Item Extra Pods"
+  },
+  "ITEM_GIFT_OPEN": {
+    "id": "1082",
+    "en": "Item Gift Open",
+    "fr": "Item Gift Open"
+  },
+  "ITEM_GIFT_PACKING": {
+    "id": "1083",
+    "en": "Item Gift Packing",
+    "fr": "Item Gift Packing"
+  },
+  "ITEM_GIFT_CONTENT": {
+    "id": "1084",
+    "en": "Item Gift Content",
+    "fr": "Item Gift Content"
+  },
+  "ITEM_GIFT_QUANTITY": {
+    "id": "1085",
+    "en": "Item Gift Quantity",
+    "fr": "Item Gift Quantity"
+  },
+  "ITEM_GIFT_TARGET": {
+    "id": "1086",
+    "en": "Item Gift Target",
+    "fr": "Item Gift Target"
+  },
+  "ITEM_GIFT_CHOOSE_TARGET": {
+    "id": "1087",
+    "en": "Item Gift Choose Target",
+    "fr": "Item Gift Choose Target"
+  },
+  "CHARACTER_BOOST_SHIELD_TURN_BASED": {
+    "id": "1088",
+    "en": "%s Shield Turn Based",
+    "fr": "%s Shield Turn Based"
+  },
+  "FIGHT_ADD_GLYPH_AURA": {
+    "id": "1091",
+    "en": "Fight Add Glyph Aura",
+    "fr": "Fight Add Glyph Aura"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_TARGET_MISSING_MAX_LIFE": {
+    "id": "1092",
+    "en": "Character Life Points Lost Based On Target Missing Max Life",
+    "fr": "Character Life Points Lost Based On Target Missing Max Life"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_TARGET_MISSING_MAX_LIFE_AIR": {
+    "id": "1093",
+    "en": "Character Life Points Lost Based On Target Missing Max Life Air",
+    "fr": "Character Life Points Lost Based On Target Missing Max Life Air"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_TARGET_MISSING_MAX_LIFE_FIRE": {
+    "id": "1094",
+    "en": "Character Life Points Lost Based On Target Missing Max Life Fire",
+    "fr": "Character Life Points Lost Based On Target Missing Max Life Fire"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_TARGET_MISSING_MAX_LIFE_WATER": {
+    "id": "1095",
+    "en": "Character Life Points Lost Based On Target Missing Max Life Water",
+    "fr": "Character Life Points Lost Based On Target Missing Max Life Water"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_TARGET_MISSING_MAX_LIFE_EARTH": {
+    "id": "1096",
+    "en": "Character Life Points Lost Based On Target Missing Max Life Earth",
+    "fr": "Character Life Points Lost Based On Target Missing Max Life Earth"
+  },
+  "CHARACTER_ADD_ILLUSION_MIRROR": {
+    "id": "1097",
+    "en": "Character Add Illusion Mirror",
+    "fr": "Character Add Illusion Mirror"
+  },
+  "ITEM_CURSE_USED_ITEM": {
+    "id": "1098",
+    "en": "Item Curse Used Item",
+    "fr": "Item Curse Used Item"
+  },
+  "FIGHT_ROLLBACK_TURN_BEGIN_POSITION": {
+    "id": "1099",
+    "en": "Fight Rollback Turn Begin Position",
+    "fr": "Fight Rollback Turn Begin Position"
+  },
+  "FIGHT_ROLLBACK_PREVIOUS_POSITION": {
+    "id": "1100",
+    "en": "Fight Rollback Previous Position",
+    "fr": "Fight Rollback Previous Position"
+  },
+  "FIGHT_TELESWAP": {
+    "id": "1101",
+    "en": "Fight Teleswap",
+    "fr": "Fight Teleswap"
+  },
+  "SPEAKING_ITEM": {
+    "id": "1102",
+    "en": "Speaking Item",
+    "fr": "Speaking Item"
+  },
+  "FIGHT_PUSH_NO_DAMAGE": {
+    "id": "1103",
+    "en": "Fight Push No Damage",
+    "fr": "Fight Push No Damage"
+  },
+  "FIGHT_TELESWAP_MIRROR": {
+    "id": "1104",
+    "en": "Fight Teleswap Mirror",
+    "fr": "Fight Teleswap Mirror"
+  },
+  "FIGHT_TELESWAP_MIRROR_CASTER": {
+    "id": "1105",
+    "en": "Fight Teleswap Mirror Caster",
+    "fr": "Fight Teleswap Mirror Caster"
+  },
+  "FIGHT_TELESWAP_MIRROR_IMPACT_POINT": {
+    "id": "1106",
+    "en": "Fight Teleswap Mirror Impact Point",
+    "fr": "Fight Teleswap Mirror Impact Point"
+  },
+  "ITEM_GUILD_RENAME": {
+    "id": "1107",
+    "en": "Item Guild Rename",
+    "fr": "Item Guild Rename"
+  },
+  "ITEM_GUILD_EMBLEM_CHANGE": {
+    "id": "1108",
+    "en": "Item Guild Emblem Change",
+    "fr": "Item Guild Emblem Change"
+  },
+  "FIGHT_LIFE_POINTS_WIN_PERCENT": {
+    "id": "1109",
+    "en": "Fight Life Points Win Percent",
+    "fr": "Fight Life Points Win Percent"
+  },
+  "ITEM_SUMMON_MONSTER_REWARD_RATE": {
+    "id": "1110",
+    "en": "Item Summon Monster Reward Rate",
+    "fr": "Item Summon Monster Reward Rate"
+  },
+  "ITEM_SUMMON_MONSTER_GROUP_MAX_LOOT_SHARES": {
+    "id": "1111",
+    "en": "Item Summon Monster Group Max Loot Shares",
+    "fr": "Item Summon Monster Group Max Loot Shares"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_CASTER_MISSING_MAX_LIFE": {
+    "id": "1118",
+    "en": "Character Life Points Lost Based On Caster Missing Max Life",
+    "fr": "Character Life Points Lost Based On Caster Missing Max Life"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_CASTER_MISSING_MAX_LIFE_AIR": {
+    "id": "1119",
+    "en": "Character Life Points Lost Based On Caster Missing Max Life Air",
+    "fr": "Character Life Points Lost Based On Caster Missing Max Life Air"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_CASTER_MISSING_MAX_LIFE_FIRE": {
+    "id": "1120",
+    "en": "Character Life Points Lost Based On Caster Missing Max Life Fire",
+    "fr": "Character Life Points Lost Based On Caster Missing Max Life Fire"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_CASTER_MISSING_MAX_LIFE_WATER": {
+    "id": "1121",
+    "en": "Character Life Points Lost Based On Caster Missing Max Life Water",
+    "fr": "Character Life Points Lost Based On Caster Missing Max Life Water"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_BASED_ON_CASTER_MISSING_MAX_LIFE_EARTH": {
+    "id": "1122",
+    "en": "Character Life Points Lost Based On Caster Missing Max Life Earth",
+    "fr": "Character Life Points Lost Based On Caster Missing Max Life Earth"
+  },
+  "FIGHT_SPLASH_RAW_TAKEN_DAMAGE": {
+    "id": "1123",
+    "en": "Fight Splash Raw Taken Damage",
+    "fr": "Fight Splash Raw Taken Damage"
+  },
+  "FIGHT_SPLASH_RAW_TAKEN_DAMAGE_NEUTRAL": {
+    "id": "1124",
+    "en": "Fight Splash Raw Taken Damage Neutral",
+    "fr": "Fight Splash Raw Taken Damage Neutral"
+  },
+  "FIGHT_SPLASH_RAW_TAKEN_DAMAGE_AIR": {
+    "id": "1125",
+    "en": "Fight Splash Raw Taken Damage Air",
+    "fr": "Fight Splash Raw Taken Damage Air"
+  },
+  "FIGHT_SPLASH_RAW_TAKEN_DAMAGE_FIRE": {
+    "id": "1126",
+    "en": "Fight Splash Raw Taken Damage Fire",
+    "fr": "Fight Splash Raw Taken Damage Fire"
+  },
+  "FIGHT_SPLASH_RAW_TAKEN_DAMAGE_WATER": {
+    "id": "1127",
+    "en": "Fight Splash Raw Taken Damage Water",
+    "fr": "Fight Splash Raw Taken Damage Water"
+  },
+  "FIGHT_SPLASH_RAW_TAKEN_DAMAGE_EARTH": {
+    "id": "1128",
+    "en": "Fight Splash Raw Taken Damage Earth",
+    "fr": "Fight Splash Raw Taken Damage Earth"
+  },
+  "CHARACTER_MANA_USE_KILL_LIFE_AIR": {
+    "id": "1131",
+    "en": "Character Mana Use Kill Life Air",
+    "fr": "Caractère Mana Utiliser Kill Life Air"
+  },
+  "CHARACTER_MANA_USE_KILL_LIFE_WATER": {
+    "id": "1132",
+    "en": "Character Mana Use Kill Life Water",
+    "fr": "Character Mana Use Kill Life Water"
+  },
+  "CHARACTER_MANA_USE_KILL_LIFE_FIRE": {
+    "id": "1133",
+    "en": "Character Mana Use Kill Life Fire",
+    "fr": "Mana de personnage Utiliser Kill Life Fire"
+  },
+  "CHARACTER_MANA_USE_KILL_LIFE_NEUTRAL": {
+    "id": "1134",
+    "en": "Character Mana Use Kill Life Neutral",
+    "fr": "Character Mana Use Kill Life Neutral"
+  },
+  "CHARACTER_MANA_USE_KILL_LIFE_EARTH": {
+    "id": "1135",
+    "en": "Character Mana Use Kill Life Earth",
+    "fr": "Character Mana Use Kill Life Earth"
+  },
+  "CHARACTER_MOVEMENT_USE_KILL_LIFE_AIR": {
+    "id": "1136",
+    "en": "Character Movement Use Kill Life Air",
+    "fr": "Character Movement Use Kill Life Air"
+  },
+  "CHARACTER_MOVEMENT_USE_KILL_LIFE_WATER": {
+    "id": "1137",
+    "en": "Character Movement Use Kill Life Water",
+    "fr": "Character Movement Use Kill Life Water"
+  },
+  "CHARACTER_MOVEMENT_USE_KILL_LIFE_FIRE": {
+    "id": "1138",
+    "en": "Character Movement Use Kill Life Fire",
+    "fr": "Character Movement Use Kill Life Fire"
+  },
+  "CHARACTER_MOVEMENT_USE_KILL_LIFE_NEUTRAL": {
+    "id": "1139",
+    "en": "Character Movement Use Kill Life Neutral",
+    "fr": "Character Movement Use Kill Life Neutral"
+  },
+  "CHARACTER_MOVEMENT_USE_KILL_LIFE_EARTH": {
+    "id": "1140",
+    "en": "Character Movement Use Kill Life Earth",
+    "fr": "Character Movement Use Kill Life Earth"
+  },
+  "ACHIEVEMENT_OBJECTIVE_VALIDATE": {
+    "id": "1142",
+    "en": "Achievement Objective Validate",
+    "fr": "Achievement Objective Validate"
+  },
+  "FIGHT_BOOST_WEAPON_DAMAGE_POWER": {
+    "id": "1144",
+    "en": "Fight Boost Weapon Damage Power",
+    "fr": "Fight Boost Weapon Damage Power"
+  },
+  "ITEM_ALLIANCE_EMBLEM_CHANGE": {
+    "id": "1145",
+    "en": "Item Alliance Emblem Change",
+    "fr": "Item Alliance Emblem Change"
+  },
+  "ITEM_ALLIANCE_RENAME": {
+    "id": "1146",
+    "en": "Item Alliance Rename",
+    "fr": "Renommer une alliance d'objets"
+  },
+  "CHARACTER_GAIN_XP_WITH_LEVEL": {
+    "id": "1149",
+    "en": "Character Gain Xp With Level",
+    "fr": "Character Gain Xp With Level"
+  },
+  "REFRESH_ELEMENT": {
+    "id": "1150",
+    "en": "Refresh Element",
+    "fr": "Refresh Element"
+  },
+  "ITEM_MIMICRY_OBJ_GID": {
+    "id": "1151",
+    "en": "Item Mimicry Obj Gid",
+    "fr": "Item Mimicry Obj Gid"
+  },
+  "MARK_NOT_TRADABLE_BACKUP": {
+    "id": "1152",
+    "en": "Mark Not Tradable Backup",
+    "fr": "Mark Not Tradable Backup"
+  },
+  "ADD_TAX_COLLECTOR": {
+    "id": "1153",
+    "en": "Add Tax Collector",
+    "fr": "Add Tax Collector"
+  },
+  "ADD_PRISM_MODULE": {
+    "id": "1154",
+    "en": "Add Prism Module",
+    "fr": "Ajouter un module Prism"
+  },
+  "ITEM_TELEPORT_MAP_REFERENCE_FORCE": {
+    "id": "1155",
+    "en": "Item Teleport Map Reference Force",
+    "fr": "Item Teleport Map Reference Force"
+  },
+  "CHARACTER_MULTIPLY_RECEIVED_HEAL": {
+    "id": "1159",
+    "en": "Character Multiply Received Heal",
+    "fr": "Soins reçus par multiplication de personnage"
+  },
+  "CASTER_EXECUTE_SPELL": {
+    "id": "1160",
+    "en": "Caster Execute Spell",
+    "fr": "Caster Execute Spell"
+  },
+  "SET_COMPANION": {
+    "id": "1161",
+    "en": "Set Companion",
+    "fr": "Set Companion"
+  },
+  "CHANGE_COMPASS_BY_REF": {
+    "id": "1162",
+    "en": "Change Compass By Ref",
+    "fr": "Changer la boussole par référence"
+  },
+  "CHARACTER_MULTIPLY_RECEIVED_DAMAGE": {
+    "id": "1163",
+    "en": "Character Multiply Received Damage",
+    "fr": "Multiplier les dégâts subis par le personnage"
+  },
+  "CHARACTER_GIVE_LIFE_WITH_RATIO": {
+    "id": "1164",
+    "en": "Character Give Life With Ratio",
+    "fr": "Le personnage donne la vie avec un ratio"
+  },
+  "FIGHT_ADD_GLYPH_CASTING_SPELL_IMMEDIATE": {
+    "id": "1165",
+    "en": "Fight Add Glyph Casting Spell Immediate",
+    "fr": "Combattre Ajouter un sort de lancement de glyphe immédiat"
+  },
+  "FIGHT_BOOST_GLYPH_DAMAGE_POWER": {
+    "id": "1166",
+    "en": "Fight Boost Glyph Damage Power",
+    "fr": "Fight Boost Glyph Damage Power"
+  },
+  "FIGHT_BOOST_RUNE_DAMAGE_POWER": {
+    "id": "1167",
+    "en": "Fight Boost Rune Damage Power",
+    "fr": "Fight Boost Rune Damage Power"
+  },
+  "GET_PORTAL_QUEST": {
+    "id": "1168",
+    "en": "Get Portal Quest",
+    "fr": "Obtenez Portal Quest"
+  },
+  "USE_PORTAL": {
+    "id": "1169",
+    "en": "Use Portal",
+    "fr": "Use Portal"
+  },
+  "GET_TREASURE_QUEST": {
+    "id": "1170",
+    "en": "Get Treasure Quest",
+    "fr": "Obtenez Treasure Quest"
+  },
+  "CHARACTER_BOOST_DEALT_DAMAGE_PERCENT_MULTIPLIER": {
+    "id": "1171",
+    "en": "%s Dealt Damage Percent Multiplier",
+    "fr": "%s Dealt Damage Percent Multiplier"
+  },
+  "CHARACTER_DEBOOST_DEALT_DAMAGE_PERCENT_MULTIPLIER": {
+    "id": "1172",
+    "en": "Character Deboost Dealt Damage Percent Multiplier",
+    "fr": "Character Deboost Dealt Damage Percent Multiplier"
+  },
+  "GET_LEGENDARY_TREASURE_QUEST": {
+    "id": "1173",
+    "en": "Get Legendary Treasure Quest",
+    "fr": "Obtenez une quête de trésor légendaire"
+  },
+  "STOP_XP": {
+    "id": "1174",
+    "en": "Stop Xp",
+    "fr": "Arrêter Xp"
+  },
+  "CAST_STARTING_SPELL": {
+    "id": "1175",
+    "en": "Cast Starting Spell",
+    "fr": "Lancer le sort de départ"
+  },
+  "ITEM_WRAPPER_LOOK_OBJ_GID": {
+    "id": "1176",
+    "en": "Item Wrapper Look Obj Gid",
+    "fr": "Item Wrapper Look Obj Gid"
+  },
+  "ITEM_TELEPORT_NEXT_MAP": {
+    "id": "1177",
+    "en": "Item Teleport Next Map",
+    "fr": "Objet Téléportation Carte suivante"
+  },
+  "ITEM_TELEPORT_PREVIOUS_MAP": {
+    "id": "1178",
+    "en": "Item Teleport Previous Map",
+    "fr": "Objet Téléportation Carte précédente"
+  },
+  "ITEM_WRAPPER_COMPATIBLE_OBJ_TYPE": {
+    "id": "1179",
+    "en": "Item Wrapper Compatible Obj Type",
+    "fr": "Type d'obj compatible avec les emballages d'articles"
+  },
+  "CHARACTER_READ_EXTERNAL_BOOK": {
+    "id": "1180",
+    "en": "Character Read External Book",
+    "fr": "Character Read External Book"
+  },
+  "FIGHT_ADD_PORTAL": {
+    "id": "1181",
+    "en": "Fight Add Portal",
+    "fr": "Combattre Ajouter un portail"
+  },
+  "FIGHT_USE_PORTAL": {
+    "id": "1182",
+    "en": "Fight Use Portal",
+    "fr": "Fight Use Portal"
+  },
+  "FIGHT_DISABLE_PORTAL": {
+    "id": "1183",
+    "en": "Fight Disable Portal",
+    "fr": "Fight Disable Portal"
+  },
+  "CHARACTER_GAIN_JOB_LEVEL_FROM_LEVEL_ONE": {
+    "id": "1184",
+    "en": "Character Gain Job Level From Level One",
+    "fr": "Character Gain Job Level From Level One"
+  },
+  "ITEM_RESET_EFFECTS": {
+    "id": "1185",
+    "en": "Item Reset Effects",
+    "fr": "Item Reset Effects"
+  },
+  "RIDE_HARNESS_GID": {
+    "id": "1187",
+    "en": "Ride Harness Gid",
+    "fr": "Ride Harness Gid"
+  },
+  "RIDE_GAIN_CAPACITY": {
+    "id": "1188",
+    "en": "Ride Gain Capacity",
+    "fr": "Capacité de gain de conduite"
+  },
+  "CHARACTER_ADD_DOUBLE_NO_SUMMON_SLOT": {
+    "id": "1189",
+    "en": "Character Add Double No Summon Slot",
+    "fr": "Character Add Double No Summon Slot"
+  },
+  "FIGHT_SPLASH_FINAL_TAKEN_DAMAGE": {
+    "id": "1223",
+    "en": "Fight Splash Final Taken Damage",
+    "fr": "Combattre les dégâts ultimes de Splash"
+  },
+  "FIGHT_SPLASH_FINAL_TAKEN_DAMAGE_NEUTRAL": {
+    "id": "1224",
+    "en": "Fight Splash Final Taken Damage Neutral",
+    "fr": "Fight Splash Final Taken Damage Neutre"
+  },
+  "FIGHT_SPLASH_FINAL_TAKEN_DAMAGE_AIR": {
+    "id": "1225",
+    "en": "Fight Splash Final Taken Damage Air",
+    "fr": "Fight Splash Final Taken Damage Air"
+  },
+  "FIGHT_SPLASH_FINAL_TAKEN_DAMAGE_FIRE": {
+    "id": "1226",
+    "en": "Fight Splash Final Taken Damage Fire",
+    "fr": "Combattre Splash Final Taken Damage Fire"
+  },
+  "FIGHT_SPLASH_FINAL_TAKEN_DAMAGE_WATER": {
+    "id": "1227",
+    "en": "Fight Splash Final Taken Damage Water",
+    "fr": "Combattre Splash Endommagement final de l'eau"
+  },
+  "FIGHT_SPLASH_FINAL_TAKEN_DAMAGE_EARTH": {
+    "id": "1228",
+    "en": "Fight Splash Final Taken Damage Earth",
+    "fr": "Combattre Splash Final Taken Damage Earth"
+  },
+  "TARGET_EXECUTE_SPELL_ON_SOURCE_GLOBAL_LIMITATION": {
+    "id": "2017",
+    "en": "Target Execute Spell On Source Global Limitation",
+    "fr": "Target Execute Spell On Source Global Limitation"
+  },
+  "DISPEL_GLYPHS_OF_TARGET": {
+    "id": "2018",
+    "en": "Dispel Glyphs Of Target",
+    "fr": "Dissiper les glyphes de la cible"
+  },
+  "DISPEL_TRAPS_OF_TARGET": {
+    "id": "2019",
+    "en": "Dispel Traps Of Target",
+    "fr": "Dissiper les pièges de la cible"
+  },
+  "FIGHT_SPLASH_HEAL": {
+    "id": "2020",
+    "en": "Fight Splash Heal",
+    "fr": "Combattre la guérison des éclaboussures"
+  },
+  "NUGGETS_REPARTITION": {
+    "id": "2021",
+    "en": "Nuggets Repartition",
+    "fr": "Répartition des pépites"
+  },
+  "FIGHT_ADD_RUNE_CASTING_SPELL": {
+    "id": "2022",
+    "en": "Fight Add Rune Casting Spell",
+    "fr": "Combattre Ajouter un sort de lancement de runes"
+  },
+  "FORCE_RUNE_TRIGGER": {
+    "id": "2023",
+    "en": "Force Rune Trigger",
+    "fr": "Force Rune Trigger"
+  },
+  "DISPEL_RUNES_OF_TARGET": {
+    "id": "2024",
+    "en": "Dispel Runes Of Target",
+    "fr": "Dissiper les runes de cible"
+  },
+  "CHARACTER_OPEN_HAVENBAG_STORAGE": {
+    "id": "2025",
+    "en": "Character Open Havenbag Storage",
+    "fr": "Character Open Havenbag Storage"
+  },
+  "CHARACTER_HAVENBAG_LOTTERY": {
+    "id": "2026",
+    "en": "Character Havenbag Lottery",
+    "fr": "Loterie de personnages Havenbag"
+  },
+  "CONTROL_ENTITY": {
+    "id": "2027",
+    "en": "Control Entity",
+    "fr": "Entité de contrôle"
+  },
+  "INHERITE_CHARAC": {
+    "id": "2028",
+    "en": "Inherite Charac",
+    "fr": "Personnage hérité"
+  },
+  "FINISH_MOVE": {
+    "id": "2029",
+    "en": "Finish Move",
+    "fr": "Terminer le mouvement"
+  },
+  "CHARACTER_LEARN_FINISH_MOVE": {
+    "id": "2030",
+    "en": "Character Learn Finish Move",
+    "fr": "Apprendre le personnage Terminer le mouvement"
+  },
+  "CHARACTER_LEARN_HAVEN_BAG_THEME": {
+    "id": "2031",
+    "en": "Character Learn Haven Bag Theme",
+    "fr": "Character Learn Haven Bag Theme"
+  },
+  "CASTER_EXECUTE_SPELL_GLOBAL_LIMITATION": {
+    "id": "2160",
+    "en": "Caster Execute Spell Global Limitation",
+    "fr": "Limitation globale des sorts d'exécution du lanceur"
+  },
+  "TARGET_EXECUTE_SPELL_GLOBAL_LIMITATION": {
+    "id": "2792",
+    "en": "Target Execute Spell Global Limitation",
+    "fr": "Limitation globale des sorts d'exécution cible"
+  },
+  "TARGET_EXECUTE_SPELL_WITH_ANIMATION_GLOBAL_LIMITATION": {
+    "id": "2793",
+    "en": "Target Execute Spell With Animation Global Limitation",
+    "fr": "Exécuter le sort cible avec la limitation globale d'animation"
+  },
+  "TARGET_EXECUTE_SPELL_ON_CELL": {
+    "id": "2794",
+    "en": "Target Execute Spell On Cell",
+    "fr": "Target Execute Spell On Cell"
+  },
+  "TARGET_EXECUTE_SPELL_ON_CELL_GLOBAL_LIMITATION": {
+    "id": "2795",
+    "en": "Target Execute Spell On Cell Global Limitation",
+    "fr": "Limitation globale de la cible Exécuter le sort sur la cellule"
+  },
+  "FIGHT_KILL_AND_SUMMON_SLAVE": {
+    "id": "2796",
+    "en": "Fight Kill And Summon Slave",
+    "fr": "Fight Kill And Summon Slave"
+  },
+  "CHARACTER_LEARN_SMILEY_PACK": {
+    "id": "2797",
+    "en": "Character Learn Smiley Pack",
+    "fr": "Pack de smileys pour apprendre les personnages"
+  },
+  "CHARACTER_BOOST_DEALT_DAMAGE_PERCENT_MULTIPLIER_MELEE": {
+    "id": "2800",
+    "en": "%s Dealt Damage Percent Multiplier Melee",
+    "fr": "%s Dealt Damage Percent Multiplier Melee"
+  },
+  "CHARACTER_DEBOOST_DEALT_DAMAGE_PERCENT_MULTIPLIER_MELEE": {
+    "id": "2801",
+    "en": "Character Deboost Dealt Damage Percent Multiplier Melee",
+    "fr": "Character Deboost Dealt Damage Percent Multiplier Melee"
+  },
+  "CHARACTER_BOOST_RECEIVED_DAMAGE_PERCENT_MULTIPLIER_MELEE": {
+    "id": "2802",
+    "en": "%s Received Damage Percent Multiplier Melee",
+    "fr": "Augmentation du personnage reçu au corps à corps multiplicateur de pourcentage de dégâts"
+  },
+  "CHARACTER_DEBOOST_RECEIVED_DAMAGE_PERCENT_MULTIPLIER_MELEE": {
+    "id": "2803",
+    "en": "Character Deboost Received Damage Percent Multiplier Melee",
+    "fr": "Personnage Deboost a reçu un multiplicateur de pourcentage de dégâts en mêlée"
+  },
+  "CHARACTER_BOOST_DEALT_DAMAGE_PERCENT_MULTIPLIER_DISTANCE": {
+    "id": "2804",
+    "en": "%s Dealt Damage Percent Multiplier Distance",
+    "fr": "%s Dealt Damage Percent Multiplier Distance"
+  },
+  "CHARACTER_DEBOOST_DEALT_DAMAGE_PERCENT_MULTIPLIER_DISTANCE": {
+    "id": "2805",
+    "en": "Character Deboost Dealt Damage Percent Multiplier Distance",
+    "fr": "Caractère Deboost Infligé Dommages Pourcentage Multiplicateur Distance"
+  },
+  "CHARACTER_BOOST_RECEIVED_DAMAGE_PERCENT_MULTIPLIER_DISTANCE": {
+    "id": "2806",
+    "en": "%s Received Damage Percent Multiplier Distance",
+    "fr": "Augmentation du personnage reçu Distance du multiplicateur de pourcentage de dégâts"
+  },
+  "CHARACTER_DEBOOST_RECEIVED_DAMAGE_PERCENT_MULTIPLIER_DISTANCE": {
+    "id": "2807",
+    "en": "Character Deboost Received Damage Percent Multiplier Distance",
+    "fr": "Caractère Deboost a reçu un pourcentage de dégâts multiplicateur Distance"
+  },
+  "CHARACTER_BOOST_DEALT_DAMAGE_PERCENT_MULTIPLIER_WEAPON": {
+    "id": "2808",
+    "en": "%s Dealt Damage Percent Multiplier Weapon",
+    "fr": "Arme multiplicateur de pourcentage de dégâts infligés pour booster de personnage"
+  },
+  "CHARACTER_DEBOOST_DEALT_DAMAGE_PERCENT_MULTIPLIER_WEAPON": {
+    "id": "2809",
+    "en": "Character Deboost Dealt Damage Percent Multiplier Weapon",
+    "fr": "Arme multiplicateur de pourcentage de dégâts infligés par le personnage Deboost"
+  },
+  "CHARACTER_BOOST_RECEIVED_DAMAGE_PERCENT_MULTIPLIER_WEAPON": {
+    "id": "2810",
+    "en": "%s Received Damage Percent Multiplier Weapon",
+    "fr": "Augmentation du personnage reçu de l'arme multiplicateur de pourcentage de dégâts"
+  },
+  "CHARACTER_DEBOOST_RECEIVED_DAMAGE_PERCENT_MULTIPLIER_WEAPON": {
+    "id": "2811",
+    "en": "Character Deboost Received Damage Percent Multiplier Weapon",
+    "fr": "Arme de multiplicateur de pourcentage de dégâts subis par le personnage Deboost"
+  },
+  "CHARACTER_BOOST_DEALT_DAMAGE_PERCENT_MULTIPLIER_SPELLS": {
+    "id": "2812",
+    "en": "%s Dealt Damage Percent Multiplier Spells",
+    "fr": "Augmentation du personnage Sorts multiplicateurs de pourcentage de dégâts infligés"
+  },
+  "CHARACTER_DEBOOST_DEALT_DAMAGE_PERCENT_MULTIPLIER_SPELLS": {
+    "id": "2813",
+    "en": "Character Deboost Dealt Damage Percent Multiplier Spells",
+    "fr": "Dégâts infligés au personnage pour les sorts de multiplicateur de pourcentage de dégâts"
+  },
+  "CHARACTER_BOOST_RECEIVED_DAMAGE_PERCENT_MULTIPLIER_SPELLS": {
+    "id": "2814",
+    "en": "%s Received Damage Percent Multiplier Spells",
+    "fr": "Augmentation du personnage reçu des sorts de multiplicateur de pourcentage de dégâts"
+  },
+  "CHARACTER_DEBOOST_RECEIVED_DAMAGE_PERCENT_MULTIPLIER_SPELLS": {
+    "id": "2815",
+    "en": "Character Deboost Received Damage Percent Multiplier Spells",
+    "fr": "Caractère Deboost reçu des sorts de multiplicateur de pourcentage de dégâts"
+  },
+  "BOOST_CHARAC_CONVERT": {
+    "id": "2816",
+    "en": "Boost Charac Convert",
+    "fr": "Boost Charac Convert"
+  },
+  "BUY_IN_BID_HOUSE": {
+    "id": "2817",
+    "en": "Buy In Bid House",
+    "fr": "Buy In Bid House"
+  },
+  "HOME_MADE": {
+    "id": "2818",
+    "en": "Home Made",
+    "fr": "Fait maison"
+  },
+  "EVOLUTIVE_OBJECT_EXPERIENCE": {
+    "id": "2819",
+    "en": "Evolutive Object Experience",
+    "fr": "Expérience d'objet évolutive"
+  },
+  "SUPERFOOD_EXPERIENCE": {
+    "id": "2820",
+    "en": "Superfood Experience",
+    "fr": "Expérience Superfood"
+  },
+  "EVOLUTIVE_PET_LEVEL": {
+    "id": "2821",
+    "en": "Evolutive Pet Level",
+    "fr": "Niveau de familier évolutif"
+  },
+  "CHARACTER_LIFE_POINTS_LOST_FROM_BEST_ELEMENT": {
+    "id": "2822",
+    "en": "Character Life Points Lost From Best Element",
+    "fr": "Points de vie du personnage perdus du meilleur élément"
+  },
+  "CHARACTER_PLAY_EMOTICON": {
+    "id": "2823",
+    "en": "Character Play Emoticon",
+    "fr": "Émoticône de jeu de personnage"
+  },
+  "BOOST_ALL_SPELL_BASE_DMG": {
+    "id": "2824",
+    "en": "Boost All Spell Base Dmg",
+    "fr": "Boost All Spell Base Dmg"
+  },
+  "PREVENT_FUTURE_SMITHMAGIC": {
+    "id": "2825",
+    "en": "Prevent Future Smithmagic",
+    "fr": "Empêcher l'avenir Smithmagic"
+  },
+  "SMITHMAGIC_FORCE_WEIGHT": {
+    "id": "2826",
+    "en": "Smithmagic Force Weight",
+    "fr": "Poids de la force Smithmagic"
+  },
+  "SMITHMAGIC_FORCE_PROBABILITY": {
+    "id": "2827",
+    "en": "Smithmagic Force Probability",
+    "fr": "Probabilité de force Smithmagic"
+  },
+  "CHARACTER_LIFE_POINTS_STEAL_FROM_BEST_ELEMENT": {
+    "id": "2828",
+    "en": "Character Life Points Steal From Best Element",
+    "fr": "Les points de vie des personnages volent au meilleur élément"
+  },
+  "FIGHT_SPLASH_RAW_TAKEN_DAMAGE_BEST_ELEMENT": {
+    "id": "2829",
+    "en": "Fight Splash Raw Taken Damage Best Element",
+    "fr": "Combattre le meilleur élément des dégâts infligés par Splash Raw"
+  },
+  "FIGHT_SPLASH_FINAL_TAKEN_DAMAGE_BEST_ELEMENT": {
+    "id": "2830",
+    "en": "Fight Splash Final Taken Damage Best Element",
+    "fr": "Fight Splash Final Taken Damage Meilleur élément"
+  },
+  "WIPWIPWIP": {
+    "id": "2831",
+    "en": "Wipwipwip",
+    "fr": "Wip Wip Wip"
+  },
+  "ITEM_EXPIRATION": {
+    "id": "2833",
+    "en": "Item Expiration",
+    "fr": "Expiration de l'article"
+  },
+  "CHARACTER_BOOST_STRENGTH_PERCENT": {
+    "id": "2834",
+    "en": "%s Strength Percent",
+    "fr": "Pourcentage de renforcement du personnage"
+  },
+  "CHARACTER_DEBOOST_STRENGTH_PERCENT": {
+    "id": "2835",
+    "en": "Character Deboost Strength Percent",
+    "fr": "Pourcentage de force de décompression du personnage"
+  },
+  "CHARACTER_BOOST_AGILITY_PERCENT": {
+    "id": "2836",
+    "en": "%s Agility Percent",
+    "fr": "Pourcentage d'agilité de renforcement des personnages"
+  },
+  "CHARACTER_DEBOOST_AGILITY_PERCENT": {
+    "id": "2837",
+    "en": "Character Deboost Agility Percent",
+    "fr": "Pourcentage d'agilité de Deboost de personnage"
+  },
+  "CHARACTER_BOOST_INTELLIGENCE_PERCENT": {
+    "id": "2838",
+    "en": "%s Intelligence Percent",
+    "fr": "Pourcentage d'intelligence de renforcement des personnages"
+  },
+  "CHARACTER_DEBOOST_INTELLIGENCE_PERCENT": {
+    "id": "2839",
+    "en": "Character Deboost Intelligence Percent",
+    "fr": "Pourcentage d'intelligence de Deboost de personnage"
+  },
+  "CHARACTER_BOOST_CHANCE_PERCENT": {
+    "id": "2840",
+    "en": "%s Chance Percent",
+    "fr": "Pourcentage de chance d'augmentation de personnage"
+  },
+  "CHARACTER_DEBOOST_CHANCE_PERCENT": {
+    "id": "2841",
+    "en": "Character Deboost Chance Percent",
+    "fr": "Pourcentage de chances de Deboost de personnage"
+  },
+  "CHARACTER_BOOST_WISDOM_PERCENT": {
+    "id": "2842",
+    "en": "%s Wisdom Percent",
+    "fr": "Pourcentage de sagesse pour booster les personnages"
+  },
+  "CHARACTER_DEBOOST_WISDOM_PERCENT": {
+    "id": "2843",
+    "en": "Character Deboost Wisdom Percent",
+    "fr": "Pourcentage de Sagesse Deboost de Personnage"
+  },
+  "CHARACTER_BOOST_VITALITY_PERCENT": {
+    "id": "2844",
+    "en": "%s Vitality Percent",
+    "fr": "Pourcentage de vitalité d'augmentation du personnage"
+  },
+  "CHARACTER_DEBOOST_VITALITY_PERCENT": {
+    "id": "2845",
+    "en": "Character Deboost Vitality Percent",
+    "fr": "Pourcentage de vitalité du caractère deboost"
+  },
+  "CHARACTER_BOOST_POINTS_PERCENT": {
+    "id": "2846",
+    "en": "%s Points Percent",
+    "fr": "Pourcentage de points d'amélioration du personnage"
+  },
+  "CHARACTER_DEBOOST_POINTS_PERCENT": {
+    "id": "2847",
+    "en": "Character Deboost Points Percent",
+    "fr": "Pourcentage de points de bonus de personnage"
+  },
+  "CHARACTER_BOOST_MOVEMENT_POINTS_PERCENT": {
+    "id": "2848",
+    "en": "%s Movement Points Percent",
+    "fr": "Pourcentage de points de mouvement d'augmentation de personnage"
+  },
+  "CHARACTER_DEBOOST_MOVEMENT_POINTS_PERCENT": {
+    "id": "2849",
+    "en": "Character Deboost Movement Points Percent",
+    "fr": "Pourcentage de points de mouvement de Deboost de personnage"
+  },
+  "CHARACTER_BOOST_TAKLE_BLOCK_PERCENT": {
+    "id": "2850",
+    "en": "%s Takle Block Percent",
+    "fr": "Pourcentage de blocage de Takle Boost de personnage"
+  },
+  "CHARACTER_DEBOOST_TAKLE_BLOCK_PERCENT": {
+    "id": "2851",
+    "en": "Character Deboost Takle Block Percent",
+    "fr": "Pourcentage de blocage de retrait du personnage"
+  },
+  "CHARACTER_BOOST_TAKLE_EVADE_PERCENT": {
+    "id": "2852",
+    "en": "%s Takle Evade Percent",
+    "fr": "Pourcentage d'évasion de Takle Boost de personnage"
+  },
+  "CHARACTER_DEBOOST_TAKLE_EVADE_PERCENT": {
+    "id": "2853",
+    "en": "Character Deboost Takle Evade Percent",
+    "fr": "Pourcentage d'évasion de Takle Deboost de personnage"
+  },
+  "CHARACTER_BOOST_POINTS_LOST_DODGE_PERCENT": {
+    "id": "2854",
+    "en": "%s Points Lost Dodge Percent",
+    "fr": "Points de bonus de personnage Pourcentage d'esquive perdue"
+  },
+  "CHARACTER_DEBOOST_POINTS_LOST_DODGE_PERCENT": {
+    "id": "2855",
+    "en": "Character Deboost Points Lost Dodge Percent",
+    "fr": "Pourcentage de perte de points de bonus de personnage"
+  },
+  "CHARACTER_BOOST_MOVEMENT_POINTS_LOST_DODGE_PERCENT": {
+    "id": "2856",
+    "en": "%s Movement Points Lost Dodge Percent",
+    "fr": "Points de mouvement de Boost de personnage Pourcentage d'esquive perdue"
+  },
+  "CHARACTER_DEBOOST_MOVEMENT_POINTS_LOST_DODGE_PERCENT": {
+    "id": "2857",
+    "en": "Character Deboost Movement Points Lost Dodge Percent",
+    "fr": "Points de mouvement de Deboost de personnage Pourcentage d'esquive perdus"
+  },
+  "CHARACTER_BOOST_AP_ATTACK_PERCENT": {
+    "id": "2858",
+    "en": "%s Ap Attack Percent",
+    "fr": "Pourcentage d'attaque Ap d'augmentation de personnage"
+  },
+  "CHARACTER_DEBOOST_AP_ATTACK_PERCENT": {
+    "id": "2859",
+    "en": "Character Deboost Ap Attack Percent",
+    "fr": "Pourcentage d'attaque Ap de Deboost de personnage"
+  },
+  "CHARACTER_BOOST_MP_ATTACK_PERCENT": {
+    "id": "2860",
+    "en": "%s Mp Attack Percent",
+    "fr": "Pourcentage d'attaque Mp Boost de personnage"
+  },
+  "CHARACTER_DEBOOST_MP_ATTACK_PERCENT": {
+    "id": "2861",
+    "en": "Character Deboost Mp Attack Percent",
+    "fr": "Pourcentage d'attaque Mp Deboost de personnage"
+  },
+  "LEGENDARY_STATUS": {
+    "id": "2862",
+    "en": "Legendary Status",
+    "fr": "Statut légendaire"
+  },
+  "LEGENDARY_POWER_SPELL": {
+    "id": "2864",
+    "en": "Legendary Power Spell",
+    "fr": "Sort de pouvoir légendaire"
+  },
+  "CHARACTER_GAIN_XP_WO_BOOST": {
+    "id": "2865",
+    "en": "Character Gain Xp Wo Boost",
+    "fr": "Personnage Gain Xp Wo Boost"
+  },
+  "NO_SYSTEM_SAVE": {
+    "id": "2866",
+    "en": "No System Save",
+    "fr": "Pas de sauvegarde système"
+  },
+  "CHARACTER_BOOST_XP_COEFF": {
+    "id": "2867",
+    "en": "%s Xp Coeff",
+    "fr": "Caractère Boost Xp Coeff"
+  },
+  "CHARACTER_ADD_SCALE_PERCENT": {
+    "id": "2868",
+    "en": "Character Add Scale Percent",
+    "fr": "Caractère ajouter un pourcentage d'échelle"
+  },
+  "CHARACTER_BOOST_JOB_XP_COEFF": {
+    "id": "2869",
+    "en": "%s Job Xp Coeff",
+    "fr": "Caractère Boost Job Xp Coeff"
+  },
+  "PAY_LEAVE_JAIL": {
+    "id": "2870",
+    "en": "Pay Leave Jail",
+    "fr": "Payer un congé de prison"
+  },
+  "CHARACTER_LOWER_SCALE_PERCENT": {
+    "id": "2871",
+    "en": "Character Lower Scale Percent",
+    "fr": "Pourcentage de l'échelle inférieure du caractère"
+  },
+  "CHARACTER_BOOST_THRESHOLD": {
+    "id": "2872",
+    "en": "%s Threshold",
+    "fr": "Seuil d'augmentation de caractère"
+  },
+  "BREACH_RESET_ROOM_SEED": {
+    "id": "2873",
+    "en": "Breach Reset Room Seed",
+    "fr": "Breach Reset Room Seed"
+  },
+  "BREACH_RESET_ROOM_CHALLENGE": {
+    "id": "2874",
+    "en": "Breach Reset Room Challenge",
+    "fr": "Défi Breach Reset Room"
+  },
+  "CHARACTER_LEARN_SPELL_FORGETTABLE": {
+    "id": "2875",
+    "en": "Character Learn Spell Forgettable",
+    "fr": "Caractère apprendre le sort oubliable"
+  },
+  "FIGHT_VALIDATE_CHALLENGE": {
+    "id": "2876",
+    "en": "Fight Validate Challenge",
+    "fr": "Combattre Valider le défi"
+  },
+  "FIGHT_INVALIDATE_CHALLENGE": {
+    "id": "2877",
+    "en": "Fight Invalidate Challenge",
+    "fr": "Combattre le défi invalider"
+  }
+}
