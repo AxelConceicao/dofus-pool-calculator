@@ -8,6 +8,7 @@ class Mage:
     files = {}
     rune = None
     equipment = None
+    pool = 0.0
 
     def __init__(self, protocol, debug):
         self.protocol = protocol
@@ -34,7 +35,7 @@ class Mage:
         if self.debug : self.debugLogs(id, name, msg)
         self.messages[name]['method'](msg)
 
-    def itemAdded(self, msg):
+    def objectAdded(self, msg):
         print(Style.BRIGHT + Fore.YELLOW + '[ADD] ' + Style.RESET_ALL, end='')
         try:
             name = self.files['objects'][str(msg['object']['objectGID'])]
@@ -63,12 +64,12 @@ class Mage:
             self.rune = Rune(self.files, obj)
         print()
 
-    def itemRemoved(self, msg):
+    def objectRemoved(self, msg):
         print(Style.BRIGHT + Fore.RED + '[REMOVE] ' + Style.RESET_ALL, end='')
         objectUID = msg['objectUID']
         if self.rune and self.rune.UID == objectUID:
             print(self.rune.name, end='')
-            self.rune = None
+            # self.rune = None
         elif self.equipment and self.equipment.UID == objectUID:
             print(self.equipment.name, end='')
             self.equipment = None
@@ -81,14 +82,22 @@ class Mage:
     def craftResult(self, msg):
         print(Style.BRIGHT + Fore.CYAN + '[FM] ' + Style.RESET_ALL, end='')
         print(Style.BRIGHT, end='')
+        if self.rune is None:
+            print('Please add rune first', end='')
+        elif self.equipment is None:
+            print('Please add equipment first', end='')
+        else:
+            self.pool = self.equipment.getCurrentPool(self.pool, msg, self.rune)
+            print('Remaining Pool: ' + Fore.YELLOW, end='')
+            print("%.2f" % round(self.pool, 2), end='')
         print(Style.RESET_ALL)
 
     def initMethods(self):
         self.messages = {
             'ExchangeObjectAddedMessage': 
-            {'id': None, 'method': self.itemAdded},
+            {'id': None, 'method': self.objectAdded},
             'ExchangeObjectRemovedMessage': 
-            {'id': None, 'method': self.itemRemoved},
+            {'id': None, 'method': self.objectRemoved},
             'ExchangeStartOkCraftWithInformationMessage': 
             {'id': None, 'method': self.interfaceOpened},
             'ExchangeCraftResultMagicWithObjectDescMessage': 
