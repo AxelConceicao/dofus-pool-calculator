@@ -5,13 +5,13 @@ import errno
 from colorama import Fore, Back, Style
 
 def eprint(msg):
-    print(Fore.RED + msg + Style.RESET_ALL, file=sys.stderr)
+    print(Style.BRIGHT + Fore.RED + msg + Style.RESET_ALL, file=sys.stderr)
 
 def wprint(msg):
-    print(Fore.YELLOW + msg + Style.RESET_ALL)
+    print(Style.BRIGHT + Fore.YELLOW + msg + Style.RESET_ALL)
 
 def sprint(msg):
-    print(Fore.GREEN + msg + Style.RESET_ALL)
+    print(Style.BRIGHT + Fore.GREEN + msg + Style.RESET_ALL)
 
 def isFileExist(filename):
     if not os.path.isfile(filename): 
