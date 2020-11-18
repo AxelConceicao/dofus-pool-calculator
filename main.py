@@ -6,7 +6,7 @@ from Misc import isModuleExist
 def main(args):
     sys.path.append(args.sniffer)
     from Sniffer import Sniffer # pylint: disable=import-error
-    sniffer = Sniffer()
+    sniffer = Sniffer(concatMode=False)
     mage = Mage(sniffer.protocol, args.debug)
     sniffer.run(mage.handle)
 
