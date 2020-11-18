@@ -1,0 +1,592 @@
+{
+  "runes": [
+    {
+      "boost": {
+        "id": 124,
+        "action": "CHARACTER_BOOST_INITIATIVE"
+      },
+      "deboost": {
+        "id": 156,
+        "action": "CHARACTER_DEBOOST_INITIATIVE"
+      },
+      "name": "Initiative",
+      "pool": 0.1
+    },
+    {
+      "boost": {
+        "id": 125,
+        "action": "CHARACTER_BOOST_VITALITY"
+      },
+      "deboost": {
+        "id": 153,
+        "action": "CHARACTER_DEBOOST_VITALITY"
+      },
+      "name": "Vitalité",
+      "pool": 0.2
+    },
+    {
+      "boost": {
+        "id": 118,
+        "action": "CHARACTER_BOOST_STRENGTH"
+      },
+      "deboost": {
+        "id": 157,
+        "action": "CHARACTER_DEBOOST_STRENGTH"
+      },
+      "name": "Force",
+      "pool": 1
+    },
+    {
+      "boost": {
+        "id": 119,
+        "action": "CHARACTER_BOOST_AGILITY"
+      },
+      "deboost": {
+        "id": 154,
+        "action": "CHARACTER_DEBOOST_AGILITY"
+      },
+      "name": "Agilité",
+      "pool": 1
+    },
+    {
+      "boost": {
+        "id": 123,
+        "action": "CHARACTER_BOOST_CHANCE"
+      },
+      "deboost": {
+        "id": 152,
+        "action": "CHARACTER_BOOST_STRENGTH"
+      },
+      "name": "Chance",
+      "pool": 1
+    },
+    {
+      "boost": {
+        "id": 126,
+        "action": "CHARACTER_BOOST_INTELLIGENCE"
+      },
+      "deboost": {
+        "id": 155,
+        "action": "CHARACTER_DEBOOST_INTELLIGENCE"
+      },
+      "name": "Intelligence",
+      "pool": 1
+    },
+    {
+      "boost": {
+        "id": 124,
+        "action": "CHARACTER_BOOST_WISDOM"
+      },
+      "deboost": {
+        "id": 156,
+        "action": "CHARACTER_DEBOOST_WISDOM"
+      },
+      "name": "Sagesse",
+      "pool": 3
+    },
+    {
+      "boost": {
+        "id": 176,
+        "action": "CHARACTER_BOOST_MAGIC_FIND"
+      },
+      "deboost": {
+        "id": 177,
+        "action": "CHARACTER_DEBOOST_MAGIC_FIND"
+      },
+      "name": "Prospection",
+      "pool": 3
+    },
+    {
+      "boost": {
+        "id": 138,
+        "action": "CHARACTER_BOOST_DAMAGES_PERCENT"
+      },
+      "deboost": {
+        "id": 186,
+        "action": "CHARACTER_DEBOOST_DAMAGES_PERCENT"
+      },
+      "name": "Puissance",
+      "pool": 2
+    },
+    {
+      "boost": {
+        "id": 240,
+        "action": "CHARACTER_BOOST_EARTH_ELEMENT_RESIST"
+      },
+      "deboost": {
+        "id": 245,
+        "action": "CHARACTER_DEBOOST_EARTH_ELEMENT_RESIST"
+      },
+      "name": "Résistance Terre",
+      "pool": 2
+    },
+    {
+      "boost": {
+        "id": 241,
+        "action": "CHARACTER_BOOST_WATER_ELEMENT_RESIST"
+      },
+      "deboost": {
+        "id": 246,
+        "action": "CHARACTER_DEBOOST_WATER_ELEMENT_RESIST"
+      },
+      "name": "Résistance Eau",
+      "pool": 2
+    },
+    {
+      "boost": {
+        "id": 242,
+        "action": "CHARACTER_BOOST_AIR_ELEMENT_RESIST"
+      },
+      "deboost": {
+        "id": 247,
+        "action": "CHARACTER_DEBOOST_AIR_ELEMENT_RESIST"
+      },
+      "name": "Résistance Air",
+      "pool": 2
+    },
+    {
+      "boost": {
+        "id": 243,
+        "action": "CHARACTER_BOOST_FIRE_ELEMENT_RESIST"
+      },
+      "deboost": {
+        "id": 248,
+        "action": "CHARACTER_DEBOOST_FIRE_ELEMENT_RESIST"
+      },
+      "name": "Résistance Feu",
+      "pool": 2
+    },
+    {
+      "boost": {
+        "id": 244,
+        "action": "CHARACTER_BOOST_NEUTRAL_ELEMENT_RESIST"
+      },
+      "deboost": {
+        "id": 249,
+        "action": "CHARACTER_DEBOOST_NEUTRAL_ELEMENT_RESIST"
+      },
+      "name": "Résistance Neutre",
+      "pool": 2
+    },
+    {
+      "boost": {
+        "id": 210,
+        "action": "CHARACTER_BOOST_EARTH_ELEMENT_PERCENT"
+      },
+      "deboost": {
+        "id": 215,
+        "action": "CHARACTER_DEBOOST_EARTH_ELEMENT_PERCENT"
+      },
+      "name": "% Résistance Terre",
+      "pool": 6
+    },
+    {
+      "boost": {
+        "id": 211,
+        "action": "CHARACTER_BOOST_WATER_ELEMENT_PERCENT"
+      },
+      "deboost": {
+        "id": 216,
+        "action": "CHARACTER_DEBOOST_WATER_ELEMENT_PERCENT"
+      },
+      "name": "% Résistance Eau",
+      "pool": 6
+    },
+    {
+      "boost": {
+        "id": 212,
+        "action": "CHARACTER_BOOST_AIR_ELEMENT_PERCENT"
+      },
+      "deboost": {
+        "id": 217,
+        "action": "CHARACTER_DEBOOST_AIR_ELEMENT_PERCENT"
+      },
+      "name": "% Résistance Air",
+      "pool": 6
+    },
+    {
+      "boost": {
+        "id": 213,
+        "action": "CHARACTER_BOOST_FIRE_ELEMENT_PERCENT"
+      },
+      "deboost": {
+        "id": 218,
+        "action": "CHARACTER_DEBOOST_FIRE_ELEMENT_PERCENT"
+      },
+      "name": "% Résistance Feu",
+      "pool": 6
+    },
+    {
+      "boost": {
+        "id": 214,
+        "action": "CHARACTER_BOOST_NEUTRAL_ELEMENT_PERCENT"
+      },
+      "deboost": {
+        "id": 219,
+        "action": "CHARACTER_DEBOOST_NEUTRAL_ELEMENT_PERCENT"
+      },
+      "name": "% Résistance Neutre",
+      "pool": 6
+    },
+    {
+      "boost": {
+        "id": 416,
+        "action": "CHARACTER_BOOST_PUSH_DAMAGE_REDUCTION"
+      },
+      "deboost": {
+        "id": 417,
+        "action": "CHARACTER_DEBOOST_PUSH_DAMAGE_REDUCTION"
+      },
+      "name": "Résistance Poussée",
+      "pool": 2
+    },
+    {
+      "boost": {
+        "id": 420,
+        "action": "CHARACTER_BOOST_CRITICAL_DAMAGES_REDUCTION"
+      },
+      "deboost": {
+        "id": 421,
+        "action": "CHARACTER_DEBOOST_CRITICAL_DAMAGES_REDUCTION"
+      },
+      "name": "Résistance Critiques",
+      "pool": 2
+    },
+    {
+      "boost": {
+        "id": 410,
+        "action": "CHARACTER_BOOST_AP_ATTACK"
+      },
+      "deboost": {
+        "id": 411,
+        "action": "CHARACTER_DEBOOST_AP_ATTACK"
+      },
+      "name": "Retrait PA",
+      "pool": 7
+    },
+    {
+      "boost": {
+        "id": 412,
+        "action": "CHARACTER_BOOST_MP_ATTACK"
+      },
+      "deboost": {
+        "id": 413,
+        "action": "CHARACTER_DEBOOST_MP_ATTACK"
+      },
+      "name": "Retrait PM",
+      "pool": 7
+    },
+    {
+      "boost": {
+        "id": 160,
+        "action": "CHARACTER_BOOST_POINTS_LOST_DODGE"
+      },
+      "deboost": {
+        "id": 162,
+        "action": "CHARACTER_DEBOOST_POINTS_LOST_DODGE"
+      },
+      "name": "Esquive PA",
+      "pool": 7
+    },
+    {
+      "boost": {
+        "id": 161,
+        "action": "CHARACTER_BOOST_MOVEMENT_POINTS_LOST_DODGE"
+      },
+      "deboost": {
+        "id": 163,
+        "action": "CHARACTER_DEBOOST_MOVEMENT_POINTS_LOST_DODGE"
+      },
+      "name": "Esquive PM",
+      "pool": 7
+    },
+    {
+      "boost": {
+        "id": 158,
+        "action": "CHARACTER_BOOST_MAXIMUM_WEIGHT"
+      },
+      "deboost": {
+        "id": 159,
+        "action": "CHARACTER_DEBOOST_MAXIMUM_WEIGHT"
+      },
+      "name": "Pods",
+      "pool": 0.25
+    },
+    {
+      "boost": {
+        "id": 752,
+        "action": "CHARACTER_BOOST_TAKLE_EVADE"
+      },
+      "deboost": {
+        "id": 754,
+        "action": "CHARACTER_DEBOOST_TAKLE_EVADE"
+      },
+      "name": "Fuite",
+      "pool": 4
+    },
+    {
+      "boost": {
+        "id": 753,
+        "action": "CHARACTER_BOOST_TAKLE_BLOCK"
+      },
+      "deboost": {
+        "id": 755,
+        "action": "CHARACTER_DEBOOST_TAKLE_BLOCK"
+      },
+      "name": "Tacle",
+      "pool": 4
+    },
+    {
+      "boost": {
+        "id": 112,
+        "action": "CHARACTER_BOOST_DAMAGES"
+      },
+      "deboost": {
+        "id": 145,
+        "action": "CHARACTER_DEBOOST_DAMAGES"
+      },
+      "name": "Dommages",
+      "pool": 20
+    },
+    {
+      "boost": {
+        "id": 422,
+        "action": "CHARACTER_BOOST_EARTH_DAMAGES"
+      },
+      "deboost": {
+        "id": 423,
+        "action": "CHARACTER_DEBOOST_EARTH_DAMAGES"
+      },
+      "name": "Dommages Terre",
+      "pool": 5
+    },
+    {
+      "boost": {
+        "id": 424,
+        "action": "CHARACTER_BOOST_FIRE_DAMAGES"
+      },
+      "deboost": {
+        "id": 425,
+        "action": "CHARACTER_DEBOOST_FIRE_DAMAGES"
+      },
+      "name": "Dommages Feu",
+      "pool": 5
+    },
+    {
+      "boost": {
+        "id": 426,
+        "action": "CHARACTER_BOOST_WATER_DAMAGES"
+      },
+      "deboost": {
+        "id": 427,
+        "action": "CHARACTER_DEBOOST_WATER_DAMAGES"
+      },
+      "name": "Dommages Eau",
+      "pool": 5
+    },
+    {
+      "boost": {
+        "id": 428,
+        "action": "CHARACTER_BOOST_AIR_DAMAGES"
+      },
+      "deboost": {
+        "id": 429,
+        "action": "CHARACTER_DEBOOST_AIR_DAMAGES"
+      },
+      "name": "Dommages Air",
+      "pool": 5
+    },
+    {
+      "boost": {
+        "id": 430,
+        "action": "CHARACTER_BOOST_NEUTRAL_DAMAGES"
+      },
+      "deboost": {
+        "id": 431,
+        "action": "CHARACTER_DEBOOST_NEUTRAL_DAMAGES"
+      },
+      "name": "Dommages Neutre",
+      "pool": 5
+    },
+    {
+      "boost": {
+        "id": 225,
+        "action": "CHARACTER_BOOST_TRAP"
+      },
+      "deboost": {
+        "id": null,
+        "action": ""
+      },
+      "name": "Dommages Pièges",
+      "pool": 5
+    },
+    {
+      "boost": {
+        "id": 2800,
+        "action": "CHARACTER_BOOST_DEALT_DAMAGE_PERCENT_MULTIPLIER_MELEE"
+      },
+      "deboost": {
+        "id": 2801,
+        "action": "CHARACTER_DEBOOST_DEALT_DAMAGE_PERCENT_MULTIPLIER_MELEE"
+      },
+      "name": "Dommages mêlée",
+      "pool": 15
+    },
+    {
+      "boost": {
+        "id": 2802,
+        "action": "CHARACTER_BOOST_RECEIVED_DAMAGE_PERCENT_MULTIPLIER_MELEE"
+      },
+      "deboost": {
+        "id": 2803,
+        "action": "CHARACTER_DEBOOST_RECEIVED_DAMAGE_PERCENT_MULTIPLIER_MELEE"
+      },
+      "name": "Résistance mêlée",
+      "pool": 15
+    },
+    {
+      "boost": {
+        "id": 2804,
+        "action": "CHARACTER_BOOST_DEALT_DAMAGE_PERCENT_MULTIPLIER_DISTANCE"
+      },
+      "deboost": {
+        "id": 2805,
+        "action": "CHARACTER_DEBOOST_DEALT_DAMAGE_PERCENT_MULTIPLIER_DISTANCE"
+      },
+      "name": "Dommages distance",
+      "pool": 15
+    },
+    {
+      "boost": {
+        "id": 2806,
+        "action": "CHARACTER_BOOST_RECEIVED_DAMAGE_PERCENT_MULTIPLIER_DISTANCE"
+      },
+      "deboost": {
+        "id": 2807,
+        "action": "CHARACTER_DEBOOST_RECEIVED_DAMAGE_PERCENT_MULTIPLIER_DISTANCE"
+      },
+      "name": "Résistance distance",
+      "pool": 15
+    },
+    {
+      "boost": {
+        "id": 2808,
+        "action": "CHARACTER_BOOST_DEALT_DAMAGE_PERCENT_MULTIPLIER_WEAPON"
+      },
+      "deboost": {
+        "id": 2809,
+        "action": "CHARACTER_DEBOOST_DEALT_DAMAGE_PERCENT_MULTIPLIER_WEAPON"
+      },
+      "name": "Dommages d'armes",
+      "pool": 15
+    },
+    {
+      "boost": {
+        "id": 2812,
+        "action": "CHARACTER_BOOST_DEALT_DAMAGE_PERCENT_MULTIPLIER_SPELLS"
+      },
+      "deboost": {
+        "id": 2813,
+        "action": "CHARACTER_DEBOOST_DEALT_DAMAGE_PERCENT_MULTIPLIER_SPELLS"
+      },
+      "name": "Dommages aux sorts",
+      "pool": 15
+    },
+    {
+      "boost": {
+        "id": 226,
+        "action": "CHARACTER_BOOST_TRAP_PERCENT"
+      },
+      "deboost": {
+        "id": null,
+        "action": ""
+      },
+      "name": "Puissance (pièges)",
+      "pool": 2
+    },
+    {
+      "boost": {
+        "id": 178,
+        "action": "CHARACTER_BOOST_HEAL_BONUS"
+      },
+      "deboost": {
+        "id": 179,
+        "action": "CHARACTER_DEBOOST_HEAL_BONUS"
+      },
+      "name": "Soins",
+      "pool": 10
+    },
+    {
+      "boost": {
+        "id": 418,
+        "action": "CHARACTER_BOOST_CRITICAL_DAMAGES_BONUS"
+      },
+      "deboost": {
+        "id": 419,
+        "action": "CHARACTER_DEBOOST_CRITICAL_DAMAGES_BONUS"
+      },
+      "name": "Dommages Critiques",
+      "pool": 10
+    },
+    {
+      "boost": {
+        "id": 220,
+        "action": "CHARACTER_REFLECTOR_UNBOOSTED"
+      },
+      "deboost": {
+        "id": null,
+        "action": ""
+      },
+      "name": "Renvoie dommages",
+      "pool": 10
+    },
+    {
+      "boost": {
+        "id": 182,
+        "action": "CHARACTER_BOOST_MAXIMUM_SUMMONED_CREATURES"
+      },
+      "deboost": {
+        "id": null,
+        "action": ""
+      },
+      "name": "Invocations",
+      "pool": 30
+    },
+    {
+      "boost": {
+        "id": 116,
+        "action": "CHARACTER_BOOST_RANGE"
+      },
+      "deboost": {
+        "id": 117,
+        "action": "CHARACTER_DEBOOST_RANGE"
+      },
+      "name": "Portée",
+      "pool": 51
+    },
+    {
+      "boost": {
+        "id": 128,
+        "action": "CHARACTER_BOOST_MOVEMENT_POINTS"
+      },
+      "deboost": {
+        "id": 169,
+        "action": "CHARACTER_DEBOOST_MOVEMENT_POINTS"
+      },
+      "name": "PM",
+      "pool": 90
+    },
+    {
+      "boost": {
+        "id": 111,
+        "action": "CHARACTER_BOOST_POINTS"
+      },
+      "deboost": {
+        "id": 168,
+        "action": "CHARACTER_DEBOOST_POINTS"
+      },
+      "name": "PA",
+      "pool": 100
+    }
+  ]
+}
