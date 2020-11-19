@@ -8,7 +8,7 @@ def main(args):
     from Sniffer import Sniffer # pylint: disable=import-error
     sniffer = Sniffer(concatMode=False)
     mage = Mage(sniffer.protocol, args.debug)
-    sniffer.run(mage.handle)
+    sniffer.run(mage.handle, whitelist=mage.getWhitelist())
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()

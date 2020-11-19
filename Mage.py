@@ -23,6 +23,9 @@ class Mage:
                 exit(1)
             else:
                 self.messages[name]['id'] = msg['protocolID']
+    
+    def getWhitelist(self):
+        return [d['id'] for d in self.messages.values()]
 
     def debugLogs(self, id, name, msg):
         print(name + ' (' + str(id) + ')')
@@ -81,14 +84,13 @@ class Mage:
 
     def craftResult(self, msg):
         print(Style.BRIGHT + Fore.CYAN + '[FM] ' + Style.RESET_ALL, end='')
-        print(Style.BRIGHT, end='')
         if self.rune is None:
             print('Please add rune first', end='')
         elif self.equipment is None:
             print('Please add equipment first', end='')
         else:
             self.pool = self.equipment.getCurrentPool(self.pool, msg, self.rune)
-            print('Remaining Pool: ' + Fore.YELLOW, end='')
+            print(' - ' + Style.BRIGHT + Fore.YELLOW + 'Pool: ', end='')
             print("%.2f" % round(self.pool, 2), end='')
         print(Style.RESET_ALL)
 
