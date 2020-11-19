@@ -1,6 +1,6 @@
 # Dofus Pool Calculator (Calculateur de puit)
 
-<img src="images/overview.jpg" alt="overview" width="500"/>
+<img src="images/overview.jpg" alt="overview" width="750"/>
 
 ## Table of Contents
 
