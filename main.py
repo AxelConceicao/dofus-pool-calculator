@@ -12,6 +12,6 @@ def main(args):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("sniffer", help="path to dofus sniffer directory", type=isModuleExist)
+    parser.add_argument("sniffer", help="path to the sniffer directory", type=isModuleExist)
     parser.add_argument("-d", "--debug", help="show debug logs", action='store_true')
     main(parser.parse_args())

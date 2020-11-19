@@ -1,5 +1,7 @@
 # Dofus Pool Calculator (Calculateur de puit)
 
+<img src="images/overview.jpg" alt="overview" width="500"/>
+
 ## Table of Contents
 
 * [About the Project](#about-the-project)
@@ -16,11 +18,13 @@
 ## About The Project
 
 A simple tool made in Python allows you to see the remaining pool when you fm.  
+Tested and working on ***Windows 10*** and ***Ubuntu 20.04***  
 **PROJECT STILL IN PROGRESS**
 
 ### Built With
 
-* [Python 3.7](https://www.python.org/downloads/)
+* [Python 3.7](https://www.python.org/)
+> For python versions newer than 3.7, make sure your version is compatible with the version of Scapy used in the sniffer
 
 ## Getting Started
 
@@ -28,9 +32,11 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-* Python 3
+* Python 3.7 for **WINDOWS**  
+https://www.python.org/downloads/release/python-379/
+* Python 3.7 for **DEBIAN distributions**
 ```sh
-sudo apt install python3
+sudo apt install python3.7
 ```
 * Dofus Sniffer
 ```sh
@@ -49,13 +55,14 @@ git clone https://github.com/AxelConceicao/dofus-pool-calculator.git
 
 ```
 $ python main.py -h
-usage: main.py [-h] sniffer
+usage: main.py [-h] [-d] sniffer
 
 positional arguments:
-  sniffer     path to dofus sniffer directory
+  sniffer      path to the sniffer directory
 
 optional arguments:
-  -h, --help  show this help message and exit
+  -h, --help   show this help message and exit
+  -d, --debug  show debug logs
 ```
 
 ## Roadmap
