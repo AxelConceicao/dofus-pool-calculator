@@ -410,6 +410,18 @@
     },
     {
       "boost": {
+        "id": 418,
+        "action": "CHARACTER_BOOST_CRITICAL_DAMAGES_BONUS"
+      },
+      "deboost": {
+        "id": 419,
+        "action": "CHARACTER_DEBOOST_CRITICAL_DAMAGES_BONUS"
+      },
+      "name": "Dommages Critiques",
+      "pool": 5
+    },
+    {
+      "boost": {
         "id": 225,
         "action": "CHARACTER_BOOST_TRAP"
       },
@@ -518,14 +530,14 @@
     },
     {
       "boost": {
-        "id": 418,
-        "action": "CHARACTER_BOOST_CRITICAL_DAMAGES_BONUS"
+        "id": 115,
+        "action": "CHARACTER_BOOST_CRITICAL_HIT"
       },
       "deboost": {
-        "id": 419,
-        "action": "CHARACTER_DEBOOST_CRITICAL_DAMAGES_BONUS"
+        "id": 171,
+        "action": "CHARACTER_DEBOOST_CRITICAL_HIT"
       },
-      "name": "Dommages Critiques",
+      "name": "Critique",
       "pool": 10
     },
     {
