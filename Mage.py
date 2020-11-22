@@ -76,6 +76,7 @@ class Mage:
         elif self.equipment and self.equipment.UID == objectUID:
             print(self.equipment.name, end='')
             self.equipment = None
+            self.pool = 0.0
         print()
 
     def interfaceOpened(self, msg):
